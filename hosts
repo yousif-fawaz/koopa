@@ -1,0 +1,3006 @@
+127.0.0.1 localhost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff0o::0  ip6-localnet
+ff00::0  ip6-mcastprefix
+ff02::1  ip6-allnodes
+ff02::2  ip6-all routers
+ff02::3  ip6-allhosts
+0.0.0.00.0.0.0
+183.251.254.51 .qq.com
+183.251.254.51 .tc.qq.com
+183.251.254.51 .tcdn.qq.com
+183.251.254.51 .igamecj.com
+183.251.254.51 .proximabeta.com
+183.251.254.51 .anticheat.com
+183.251.254.51 .p.imtt.qq.com
+183.251.254.51 .amsoveasea.com
+183.251.254.51 .tdatamaster.com
+183.251.254.51  localhost
+183.251.254.51  localhost.localdomain
+183, 251.254.51localhost
+183.251.254.51localhost.localdomain 
+183.251.254.51local
+255.255.255.255 broadcasthost
+
+127.0.0.1 krafton.com
+127.0.0.1 www.krafton.com
+127.0.0.1 kic.service.lgtvcommon.com
+127.0.0.1 allforyoung.com
+127.0.0.1 codly.co.kr
+127.0.0.1 soomgo.com
+127.0.0.1 soomgo.co.kr
+127.0.0.1 soomgo.kr
+127.0.0.1 bod.proximabeta.com	
+127.0.0.1 rov.proximabeta.com	
+127.0.0.1 pubgm.proximabeta.com	
+127.0.0.1 sok.proximabeta.com	
+127.0.0.1 aovtc.proximabeta.com			
+127.0.0.1 gsdk.proximabeta.com			
+127.0.0.1 aovtyf.proximabeta.com	
+127.0.0.1 tech.proximabeta.com			
+127.0.0.1 gs.rustc.ngame.proximabeta.com			
+127.0.0.1 gs.jp.ngame.proximabeta.com			
+127.0.0.1 aov.proximabeta.com	
+127.0.0.1 asrs2.ngs.proximabeta.com				
+127.0.0.1 speed.india.gsdk.proximabeta.com		
+127.0.0.1 speed.jp.gsdk.proximabeta.com			
+127.0.0.1 rs1.nae.ngame.proximabeta.com		
+127.0.0.1 rs.jp.ngame.proximabeta.com		
+127.0.0.1 rs3.nae.ngame.proximabeta.com			
+127.0.0.1 ue.proximabeta.com		
+127.0.0.1 live.proximabeta.com		
+127.0.0.1 speed.na.gsdk.proximabeta.com		
+127.0.0.1 midas.jp.ngame.proximabeta.com			
+127.0.0.1 mws.eutc.ngame.proximabeta.com			
+127.0.0.1 midas.india.ngame.proximabeta.com		
+127.0.0.1 rs3.eu.ngame.proximabeta.com		
+127.0.0.1 file2.ngame.proximabeta.com	
+127.0.0.1 midas.asia.ngame.proximabeta.com			
+127.0.0.1 tv.eu.ngame.proximabeta.com		
+127.0.0.1 mxrs102.sa.ngame.proximabeta.com			
+127.0.0.1 speed.sa.gsdk.proximabeta.com			
+127.0.0.1 mws.eu.ngame.proximabeta.com	
+127.0.0.1 file.ind.ngame.proximabeta.com	
+127.0.0.1 rs1.sa.ngame.proximabeta.com			
+127.0.0.1 rs1.eu.ngame.proximabeta.com				
+127.0.0.1 kingtime.ngame.proximabeta.com		
+127.0.0.1 all.gcloud.proximabeta.com		
+127.0.0.1 gs2.eu.ngame.proximabeta.com		
+127.0.0.1 gs6.eu.ngame.proximabeta.com			
+127.0.0.1 rs7.eu.ngame.proximabeta.com		
+127.0.0.1 gs1.eu.ngame.proximabeta.com	
+127.0.0.1 gs4.eu.ngame.proximabeta.com			
+127.0.0.1 gs3.eu.ngame.proximabeta.com	
+127.0.0.1 gs5.eu.ngame.proximabeta.com		
+127.0.0.1 speed.gsdk.proximabeta.com	
+127.0.0.1 eu.pay.proximabeta.com	
+127.0.0.1 file.ngame.proximabeta.com	
+127.0.0.1 cloud.gsdk.proximabeta.com	
+127.0.0.1 cloud2.gsdk.proximabeta.com	
+127.0.0.1 forum.rov.proximabeta.com	
+127.0.0.1 forum.sok.proximabeta.com		
+127.0.0.1 image.ngame.proximabeta.com
+127.0.0.1 accounts.krafton.com	
+127.0.0.1 gstar2021.krafton.com			
+127.0.0.1 specialproject2.krafton.com		
+127.0.0.1 jira.krafton.com			
+127.0.0.1 live.krafton.com		
+127.0.0.1 wiki.krafton.com		
+127.0.0.1 api-hub.krafton.com			
+127.0.0.1 cloud.krafton.com			
+127.0.0.1 db.krafton.com			
+127.0.0.1 git-us.krafton.com			
+127.0.0.1 edu.krafton.com			
+127.0.0.1 blog.krafton.com		
+127.0.0.1 ea.krafton.com			
+127.0.0.1 workhour.krafton.com			
+127.0.0.1 puppet.krafton.com		
+127.0.0.1 puppetmaster.krafton.com		
+127.0.0.1 vpn-kr.krafton.com			
+127.0.0.1 mail.krafton.com	
+127.0.0.1 beta-api-ea.krafton.com			
+127.0.0.1 beta-ea.krafton.com			
+127.0.0.1 sip.krafton.com			
+127.0.0.1 beta-hub.krafton.com		
+127.0.0.1 mhub.krafton.com			
+127.0.0.1 beta-api-hub.krafton.com			
+127.0.0.1 smtp.krafton.com			
+127.0.0.1 git-eu.krafton.com			
+127.0.0.1 snipeit.krafton.com			
+127.0.0.1 mta.krafton.com			
+127.0.0.1 pwd.krafton.com			
+127.0.0.1 myip.krafton.com		
+127.0.0.1 vpn.krafton.com			
+127.0.0.1 printer.krafton.com			
+127.0.0.1 hub.krafton.com
+127.0.0.1 live.pandora.com	
+127.0.0.1 tuner.pandora.com	
+127.0.0.1 ios-tuner.pandora.com			
+127.0.0.1 mediaserver-cont-dc6-1-v4v6.pandora.com				
+127.0.0.1 submit.pandora.com	
+127.0.0.1 autocomplete.pandora.com	
+127.0.0.1 www.pandora.com	
+127.0.0.1 stats.pandora.com	
+127.0.0.1 internal-tuner.pandora.com		
+127.0.0.1 help.pandora.com	
+127.0.0.1 server-ph-sv5-43-214.pandora.com		
+127.0.0.1 server-ph-sv5-42-60.pandora.com			
+127.0.0.1 server-ph-sv3-41-65.pandora.com			
+127.0.0.1 server-ph-sv5-43-12.pandora.com			
+127.0.0.1 mediaserver-sjl-t1-4.pandora.com			
+127.0.0.1 server-ph-sv3-41-77.pandora.com			
+127.0.0.1 mediaserver-sv5-t3-1.pandora.com				
+127.0.0.1 server-ph-sv5-43-99.pandora.com			
+127.0.0.1 mediaserver-sv3-t2-2-v4v6.pandora.com				
+127.0.0.1 server-ph-sv5-42-70.pandora.com			
+127.0.0.1 server-ph-sv5-43-13.pandora.com			
+127.0.0.1 server-ph-sv5-43-89.pandora.com			
+127.0.0.1 contentdelivery.pandora.com				
+127.0.0.1 server-ph-sv5-43-17.pandora.com			
+127.0.0.1 server-ph-sv5-43-68.pandora.com				
+127.0.0.1 mediaserver-dc6-t2-4.pandora.com			
+127.0.0.1 server-ph-sv5-43-72.pandora.com				
+127.0.0.1 community.pandora.com	
+127.0.0.1 blog.pandora.com	
+127.0.0.1 proxy.pandora.com		
+127.0.0.1 developer.pandora.com	
+127.0.0.1 device-tuner.pandora.com	
+127.0.0.1 tv.pandora.com	
+127.0.0.1 voice.pandora.com		
+127.0.0.1 soundcloud-pax.pandora.com		
+127.0.0.1 sg.pandora.com	
+127.0.0.1 mediaserver-cont-sv5-1-v4v6.pandora.com		
+127.0.0.1 audio-sv5-t1-3.pandora.com			
+127.0.0.1 hoplon.pandora.com	
+127.0.0.1 policy.pandora.com		
+127.0.0.1 web-cdn.pandora.com			
+127.0.0.1 news.pandora.com			
+127.0.0.1 bread2.pandora.com	
+127.0.0.1 mediaserver-cont-usc-mp1-1-v4v6.pandora.com			
+127.0.0.1 playback.pandora.com			
+127.0.0.1 android-tuner.pandora.com		
+127.0.0.1 audio-sv5-t1-1-v4v6.pandora.com	
+127.0.0.1 mediaserver-cont-sv5-2-v4v6.pandora.com			
+127.0.0.1 salesloft.pandora.com	
+127.0.0.1 cont-sv5-1.pandora.com			
+127.0.0.1 ce.pandora.com		
+127.0.0.1 pmt2.pandora.com	
+127.0.0.1 audio-usc-mp1-t1-2-v4v6.pandora.com			
+127.0.0.1 audio-sv5-t1-2-v4v6.pandora.com			
+127.0.0.1 drmail.pandora.com			
+127.0.0.1 engineering.pandora.com	
+127.0.0.1 delivery.pandora.com	
+127.0.0.1 amp.pandora.com		
+127.0.0.1 stats-v2-proto.pandora.com			
+127.0.0.1 sonos.pandora.com		
+127.0.0.1 audio-usc-mp1-t2-1-v4v6.pandora.com			
+127.0.0.1 cont-dc6-2.pandora.com			
+127.0.0.1 dev-dam.pandora.com			
+127.0.0.1 dam.pandora.com				
+127.0.0.1 press.pandora.com	
+127.0.0.1 google.pandora.com			
+127.0.0.1 audio-dc6-t3-2-v4v6.pandora.com			
+127.0.0.1 mediaserver-cont-usc-mp1-2-v4v6.pandora.com		
+127.0.0.1 audio-dc6-t1-1-v4v6.pandora.com			
+127.0.0.1 audio-dc6-t2-1-v4v6.pandora.com				
+127.0.0.1 server-ph-sv3-41-171.pandora.com			
+127.0.0.1 metrics.pandora.com	
+127.0.0.1 advertising.pandora.com	
+127.0.0.1 audio-usc-mp1-t1-1-v4v6.pandora.com			
+127.0.0.1 mediaserver-dc6-t3-2-v4v6.pandora.com			
+127.0.0.1 audio-sv5-t3-1-v4v6.pandora.com				
+127.0.0.1 audio-dc6-t3-1-v4v6.pandora.com		
+127.0.0.1 audio-usc-mp1-t3-2-v4v6.pandora.com	8			
+127.0.0.1 mediaserver-sjl-t2-1.pandora.com			
+127.0.0.1 brandadvertising.pandora.com	
+127.0.0.1 mdmadmin.pandora.com
+127.0.0.1 pandora.com
+127.0.0.1 mx0b-0051e301.pphosted.com
+127.0.0.1 esports.pubgmobile.com	
+127.0.0.1 autodiscover.pubgmobile.com	
+127.0.0.1 pmsc.pubgmobile.com			
+127.0.0.1 file-pmco.pubgmobile.com
+127.0.0.1 173-66-189-73_s-23-60-159-201_ts-1636784119-clienttons-s.akamaihd.net
+127.0.0.1 103-152-126-113_s-23-55-38-58_ts-1636783938-clienttons-s.akamaihd.net
+127.0.0.1 178-89-18-178_s-188-43-76-26_ts-1636782114-clienttons-s.akamaihd.net
+127.0.0.1 san-ion.avast.com
+127.0.0.1 live.mediaset.es
+127.0.0.1 live.energytv.es
+127.0.0.1 live.uppers.es
+127.0.0.1 live.yasss.esl
+127.0.0.1 live.mtmad.es
+127.0.0.1 live.factoriadeficcion.com
+127.0.0.1 live.telecinco.es
+127.0.0.1 stage2.wadizcdn.net
+127.0.0.1 www.heilights.ie
+127.0.0.1 refreshorder.starpubsandbars.co.uk
+127.0.0.1 click.em.wcs.org
+127.0.0.1 8acdcc7.com
+127.0.0.1 www.airtel.in
+127.0.0.1 chosunbiz.web.arc-cdn.net
+127.0.0.1 player.rtl.nl.edgesuite.net
+127.0.0.1 ve2021.vfo.digital
+127.0.0.1 click.dach.easyfairs.com
+127.0.0.1 sportteller.ibu.deltatre.net
+127.0.0.1 click.newsolx.com.br
+127.0.0.1 coindeskuat.web.arc-cdn.net
+127.0.0.1 opensignal-nsu.akamaihd.net
+127.0.0.1 click.hello.reckon.com
+127.0.0.1 images.pluto.tv
+127.0.0.1 www.fis-services.com
+127.0.0.1 id-global-prod.mpl.live
+127.0.0.1 graythemestest.web.arc-cdn.net
+127.0.0.1 tronc.web.arc-cdn.net
+127.0.0.1 aheray.de
+127.0.0.1 click.sfmail.chevronfcu.org
+127.0.0.1 nzme.web.arc-cdn.net
+127.0.0.1 typo.kelloggs.com.au
+127.0.0.1 pmn.web.arc-cdn.net
+127.0.0.1 click.societyforscience-email.com
+127.0.0.1 cati.surveys.gfk.com
+127.0.0.1 protodikeia-test.singularlogic.eu
+127.0.0.1 click.uwwesternct-email.com
+127.0.0.1 www.stg.onitsukatiger.com
+127.0.0.1 www.hn249.com
+127.0.0.1 gray.web.arc-cdn.net
+127.0.0.1 click.support.anipharmaceuticals.com
+127.0.0.1 contract.mexc.me
+127.0.0.1 www.pubgmobile.com
+127.0.0.1 img2.etsystatic.com
+127.0.0.1 secure.bancocathay.com
+127.0.0.1 click.test-agt.tmnf.jp
+127.0.0.1 elespectador.web.arc-cdn.net
+127.0.0.1 grupoclarin.web.arc-cdn.net
+127.0.0.1 click.ecomm.plum.com.au
+127.0.0.1 click.exct.likefolioresearch.com
+127.0.0.1 click.mail.mapfredigitalhealth.com
+127.0.0.1 lf16-tiktok-creator-market.ibytedtos.com
+127.0.0.1 v16-b.tiktokcdn.com.edgesuite.net
+127.0.0.1 www.yigiza.com
+127.0.0.1 evoweb.demo.gfk.com
+127.0.0.1 click.email.psa-group.co.uk
+127.0.0.1 click.n.ebookers.com
+127.0.0.1 click.marketing.emea.canyon.com
+127.0.0.1 click.e.smartstyle.com
+127.0.0.1 click.email.acuvue.com
+127.0.0.1 click.e.bigfish.co.uk
+127.0.0.1 click.e.four-paws.org.uk
+127.0.0.1 click.autos.myhonda.com.br
+127.0.0.1 gfskan.gfk.es
+127.0.0.1 a353.dscb.akamai.net
+127.0.0.1 nz-b2c-uat.lionaws.com
+127.0.0.1 log2.musical.ly.edgesuite.net
+127.0.0.1 acc-splitevents.heinekenbrasil.com.br
+127.0.0.1 acc-www.glacialfest.com.br
+127.0.0.1 s04.s3c.es
+127.0.0.1 content-system.gog.com
+127.0.0.1 screenshots.rtl.nl
+127.0.0.1 ipmgroup.web.arc-cdn.net
+127.0.0.1 ln-test.1201y.com
+127.0.0.1 a161.b.akamai.net
+127.0.0.1 simit.gfk.com
+127.0.0.1 thereal-images.akamaized.net
+127.0.0.1 crossloop.com
+127.0.0.1 opb.web.arc-cdn.net
+127.0.0.1 ma.hsr.im
+127.0.0.1 www.search-results.com
+127.0.0.1 jk.2ruevjhv.com
+127.0.0.1 .vfo.digital
+127.0.0.1 inspect2021.vfo.digital
+127.0.0.1 omnireader.vfo.digital
+127.0.0.1 vocalizerdirect.vfo.digital
+127.0.0.1 dac.web.arc-cdn.net
+127.0.0.1 www.crossloop.com
+127.0.0.1 lighthouse.mintgenie.com
+127.0.0.1 dev-cmsapp.desimartini.com
+127.0.0.1 click.asia.birkenstock.com
+127.0.0.1 8626e.com
+127.0.0.1 we.brado.com.br
+127.0.0.1 ivevideo01.ktvb.com
+127.0.0.1 click.e.shoppbs.org
+127.0.0.1 apilookinglinkin-a.akamaihd.net
+127.0.0.1 akd.search.tb.ask.com
+127.0.0.1 www.5h8hih.com
+127.0.0.1 click.em.oshkosh.com
+127.0.0.1 mwapi.nsmall.com
+127.0.0.1 image.importacioneshiraoka.com.pe
+127.0.0.1 click.e.teva-pharm.com
+127.0.0.1 sureroute-a.ivstracker.net
+127.0.0.1 videos-content.voltaxservices.io
+127.0.0.1 acc-www.caledonianbeer.com
+127.0.0.1 login.aditi.lindenlab.com
+127.0.0.1 click.email.twusuper.com.au
+127.0.0.1 ccms-management.heineken.co.uk
+127.0.0.1 heineken-craas-be.heineken.com
+127.0.0.1 sit.aemcomm.hm.com
+127.0.0.1 syt-aemcomm.hm.com
+127.0.0.1 www.kia-ullrich-schwetzingen.de
+127.0.0.1 www.kia-diamant-wiesbaden.de
+127.0.0.1 www.kia-dresen-korschenbroich.de
+127.0.0.1 www.kia-bollbuck-hamburg.de
+127.0.0.1 www.kia-bender-coburg.de
+127.0.0.1 www.kia-loeffler-wuerzburg.de
+127.0.0.1 www.kia-duerkop-braunschweig.de
+127.0.0.1 www.kia-suerth-mayen.de
+127.0.0.1 www.kia-ahrwz-wittlich.de
+127.0.0.1 www.kia-renck-weindel-mannheim-wohlgelegen.de
+127.0.0.1 www.kia-meures-geilenkirchen.de
+127.0.0.1 www.kia-renck-weindel-mannheim-neckarau.de
+127.0.0.1 www.kia-duerkop-hildesheim.de
+127.0.0.1 www.kia-duerkop-goettingen.de
+127.0.0.1 www.kia-duerkop-hannover.de
+127.0.0.1 www.kia-duerkop-badhersfeld.de
+127.0.0.1 www.kia-bulenda-wesel.de
+127.0.0.1 www.kia-duerkop-berlin-landsberger-allee.de
+127.0.0.1 www.kia-duerkop-frankfurt.de
+127.0.0.1 www.kia-duerkop-magdeburg.de
+127.0.0.1 www.kia-h-p-schiffweiler.de
+127.0.0.1 vrsd2fw5r2.larksuite.com
+127.0.0.1 www.jakvycvicitdraka.cz
+127.0.0.1 www.j8178.com
+127.0.0.1 www.jb9636.com
+127.0.0.1 www.in1357.com
+127.0.0.1 www.jbb7890.com
+127.0.0.1 www.jb9638.com
+127.0.0.1 abplive.coml
+127.0.0.1 www.hngj888889.com
+127.0.0.1 video.weibocdn.com.edgesuite.net
+127.0.0.1 i0.sinaimg.cn
+127.0.0.1 c.jsuol.com.br
+127.0.0.1 akm-dsa-prod.edgesuite.net
+127.0.0.1 pds-init.ess.apple.com.edgesuite.net
+127.0.0.1 a1898.b.akamai.net
+127.0.0.1 broadcast.api.rooter.io
+127.0.0.1 user.api.rooter.io
+127.0.0.1 asa.commerce.apple.com.edgesuite.net
+127.0.0.1 z0.sinaimg.cn
+127.0.0.1 storage.sc.weibo.com
+127.0.0.1 mpc.nicequest.com
+127.0.0.1 zhongces3.sina.com.cn
+127.0.0.1 d6.sina.com.cn
+127.0.0.1 auto.sinaimg.cn
+127.0.0.1 d3.sina.com.cn
+127.0.0.1 partner-contentutility.sonyliv.com
+127.0.0.1 conchfairy.sinajs.cn
+127.0.0.1 js1.t.sinajs.cn
+127.0.0.1 account.igg.com
+127.0.0.1 roapi-rc.stg.rockinonstore.jp
+127.0.0.1 www.edrawsoft.com
+127.0.0.1 www.atticabeauty.gr
+127.0.0.1 fus.cdn.krcom.cn
+127.0.0.1 lib.rtl.nl
+127.0.0.1 static.rtl.nll
+127.0.0.1 www.toyota.pt
+127.0.0.1 tjs.sjs.sinajs.cn
+127.0.0.1 k.sinaimg.cn
+127.0.0.1 d4.sina.com.cn
+127.0.0.1 www.pubgmobile.com
+127.0.0.1 store.wan.weibo.com
+127.0.0.1 adimg.uve.weibo.com
+127.0.0.1 locallimit.us.sinaimg.cn
+127.0.0.1 ue55qnkvwwmu-a.akamaihd.net
+127.0.0.1 freeebook.kelloggs.com.au
+127.0.0.1 josh-lib.myjosh.in
+127.0.0.1 internal-api-space.larksuite.com
+127.0.0.1 xlog.byteoversea.com
+127.0.0.1 nel.measure.office.net.edgesuite.net
+127.0.0.1 www.corporate-ir.net
+127.0.0.1 lf16-tiktok-web.ttwstatic.com
+127.0.0.1 sf16-va.tiktokcdn.com.edgesuite.net
+127.0.0.1 exo.nel.measure.office.net
+127.0.0.1 www.toyota.com.tr
+127.0.0.1 abtest-va-tiktok.byteoversea.com.edgesuite.net
+127.0.0.1 www.toyota.gr
+127.0.0.1 api.unxqq.com
+127.0.0.1 mon.byteoversea.com
+127.0.0.1 interodonto.com.br
+127.0.0.1 www.minecraft.net
+127.0.0.1 stats.the-afc.com
+127.0.0.1 www.lexus.fi
+127.0.0.1 ru.lexus.lt
+127.0.0.1 www.lexus.bg
+127.0.0.1 205.220.176.4
+127.0.0.1 205.220.164.4
+127.0.0.1 208.85.40.158
+127.0.0.1 208.85.40.20
+127.0.0.1 208.85.40.50
+127.0.0.1 15.164.152.226
+127.0.0.1 3.37.238.223
+127.0.0.1 52.78.203.97
+127.0.0.1 13.209.193.1
+127.0.0.1 3.37.113.103
+127.0.0.1 13.124.3.185
+127.0.0.1 15.164.193.236
+127.0.0.1 52.79.189.53
+127.0.0.1 3.34.174.171
+127.0.0.1 15.164.27.154
+127.0.0.1 3.38.35.37
+127.0.0.1 54.180.179.4
+127.0.0.1 103.114.124.53
+127.0.0.1 104.91.166.56
+127.0.0.1 23.33.29.18
+127.0.0.1 23.33.29.72
+127.0.0.1 23.33.29.88
+127.0.0.1 23.48.208.35
+127.0.0.1 96.17.179.24
+127.0.0.1 104.114.79.170
+127.0.0.1 23.195.73.170
+127.0.0.1 23.195.73.177
+127.0.0.1 23.12.146.164
+127.0.0.1 23.12.146.134
+127.0.0.1 23.205.110.209
+127.0.0.1 104.123.159.9
+127.0.0.1 104.123.159.48
+127.0.0.1 23.35.68.136
+127.0.0.1 92.123.180.89
+127.0.0.1 92.123.180.65
+127.0.0.1 23.220.246.144
+127.0.0.1 23.220.246.138
+127.0.0.1 23.33.85.145
+127.0.0.1 23.33.85.141
+127.0.0.1 184.25.123.198
+127.0.0.1 92.123.180.112
+127.0.0.1 23.205.89.47
+127.0.0.1 204.237.142.115
+127.0.0.1 23.59.177.15
+127.0.0.1 184.25.113.170
+127.0.0.1 23.54.76.60
+127.0.0.1 23.54.76.19
+127.0.0.1 104.88.206.75
+127.0.0.1 23.72.249.136
+127.0.0.1 184.25.59.13
+127.0.0.1 184.25.59.26
+127.0.0.1 23.54.78.190
+127.0.0.1 23.72.249.155
+127.0.0.1 184.25.113.157
+127.0.0.1 23.54.78.26
+127.0.0.1 23.54.78.58
+127.0.0.1 2021-06-08
+127.0.0.1 2.19.98.43
+127.0.0.1 23.64.114.217
+127.0.0.1 23.38.189.89
+127.0.0.1 23.38.189.91
+127.0.0.1 23.207.202.138
+127.0.0.1 23.46.30.73
+127.0.0.1 104.117.77.184
+127.0.0.1 2.23.92.107
+127.0.0.1 95.100.85.191
+127.0.0.1 96.16.122.149
+127.0.0.1 23.35.68.59
+127.0.0.1 95.100.243.128
+127.0.0.1 23.35.68.48
+127.0.0.1 23.35.68.56
+127.0.0.1 23.35.68.42
+127.0.0.1 23.35.68.32
+127.0.0.1 96.17.206.7
+127.0.0.1 23.220.246.17
+127.0.0.1 23.220.246.34
+127.0.0.1 23.211.176.175
+127.0.0.1 72.247.182.98
+127.0.0.1 23.38.188.138
+127.0.0.1 23.72.249.134
+127.0.0.1 23.64.115.156
+127.0.0.1 72.247.182.82
+127.0.0.1 23.35.70.57
+127.0.0.1 23.222.12.10
+127.0.0.1 104.117.77.43
+127.0.0.1 104.117.77.66
+127.0.0.1 2.22.147.89
+127.0.0.1 104.119.190.72
+127.0.0.1 23.218.224.91
+127.0.0.1 23.35.70.147
+127.0.0.1 23.35.70.187
+127.0.0.1 23.218.224.92
+127.0.0.1 104.125.3.137
+127.0.0.1 2.17.197.226
+127.0.0.1 23.199.55.144
+127.0.0.1 23.199.55.132
+127.0.0.1 104.117.77.240
+127.0.0.1 23.201.216.9
+127.0.0.1 23.47.52.134
+127.0.0.1 23.47.52.146
+127.0.0.1 184.28.145.114
+127.0.0.1 23.32.45.168
+127.0.0.1 104.125.3.33
+127.0.0.1 23.33.85.29
+127.0.0.1 2.17.196.49
+127.0.0.1 2.17.196.34
+127.0.0.1 23.220.206.203
+127.0.0.1 23.220.206.202
+127.0.0.1 23.220.206.141
+127.0.0.1 95.100.86.83
+127.0.0.1 95.100.86.73
+127.0.0.1 104.86.110.48
+127.0.0.1 23.32.45.144
+127.0.0.1 23.33.85.228
+127.0.0.1 92.122.50.29
+127.0.0.1 104.88.206.140
+127.0.0.1 23.47.49.57
+127.0.0.1 204.237.142.96
+127.0.0.1 204.237.142.58
+127.0.0.1 184.50.238.8
+127.0.0.1 23.32.45.194
+127.0.0.1 23.32.45.198
+127.0.0.1 23.219.176.178
+127.0.0.1 23.219.176.200
+127.0.0.1 23.48.94.114
+127.0.0.1 23.207.202.196
+127.0.0.1 88.221.135.113
+127.0.0.1 124.132.152.79
+127.0.0.1 103.91.209.223
+127.0.0.1 203.205.254.157
+127.0.0.1 121.51.142.21
+127.0.0.1 112.53.26.232
+127.0.0.1 111.30.144.71
+127.0.0.1 61.129.7.47
+127.0.0.1 123.151.137.18
+127.0.0.1 58.250.137.36
+127.0.0.1 58.247.214.47
+127.0.0.1 125.39.52.26
+127.0.0.1 111.161.64.40
+127.0.0.1 111.161.64.48
+127.0.0.1 180.163.26.39
+127.0.0.1 58.60.9.21
+127.0.0.1 59.37.96.63
+127.0.0.1 61.135.157.156
+127.0.0.1 125.39.240.113
+127.0.0.1 163.177.65.160
+127.0.0.1 125.39.127.22
+127.0.0.1 220.181.138.59
+127.0.0.1 .ovsdown-update.qq.com	
+127.0.0.1 .e.qq.com
+127.0.0.1 .gamevip.qq.com
+127.0.0.1 .stun.qq.com	
+127.0.0.1 .gameact.qq.com	
+127.0.0.1 .kg.qq.com	
+127.0.0.1 .wpa1.qq.com	
+127.0.0.1 .wx.qq.com	
+127.0.0.1 .m.qq.com	
+127.0.0.1 .lol.qq.com	
+127.0.0.1 .weread.qq.com	
+127.0.0.1 .aq.qq.com	
+127.0.0.1 .qt.qq.com	
+127.0.0.1 .l.qq.com	
+127.0.0.1 .peng.qq.com	
+127.0.0.1 .sports.qq.com	
+127.0.0.1 .adsgroup.qq.com	
+127.0.0.1 .news.qq.com	
+127.0.0.1 .qqgame.qq.com	
+127.0.0.1 .dna.qq.com	
+127.0.0.1 .theme.qq.com		
+127.0.0.1 .music.qq.com	
+127.0.0.1 .office.qq.com	
+127.0.0.1 .mx3.qq.com	
+127.0.0.1 .dldl.qq.com	
+127.0.0.1 .avlab.qq.com	
+127.0.0.1 .testoma.qq.com			
+127.0.0.1 .appservice.qq.com		
+127.0.0.1 .omgid.qq.com	
+127.0.0.1 .gamebbs.qq.com	
+127.0.0.1 .mini.qq.com	
+127.0.0.1 .tcsh.qq.com	
+127.0.0.1 .mpqq-article-datapush.qq.com		
+127.0.0.1 .iot.qq.com	
+127.0.0.1 .portalinfo.qq.com	
+127.0.0.1 .scdown.qq.com	
+127.0.0.1 .qm.qq.com	
+127.0.0.1 .daohang.qq.com	
+127.0.0.1 .ip.qq.com	
+127.0.0.1 .pingmta.qq.com	
+127.0.0.1 .jsq.qq.com	
+127.0.0.1 .1314.qq.com	
+127.0.0.1 .ag.qq.com	
+127.0.0.1 .omgmta1.qq.com	
+127.0.0.1 .kuaibao.qq.com	
+127.0.0.1 .imgcache.qq.com	
+127.0.0.1 .t.qq.com	
+127.0.0.1 .map.qq.com	
+127.0.0.1 .wpslogo.qq.com	
+127.0.0.1 .smtp.qq.com	
+127.0.0.1 .wns.qq.com	
+127.0.0.1 .pingma.qq.com	
+127.0.0.1 .pc.qq.com	
+127.0.0.1 .masterconn2.qq.com	
+127.0.0.1 .pingmid.qq.com	
+127.0.0.1 .chong.qq.com
+
+127.0.0.1 ig-us-notice.igamecj.com
+127.0.0.1 4006-shadow.igamecj.com
+127.0.0.1 naping.igamecj.com
+127.0.0.1 162.62.64.207
+127.0.0.1 49.51.133.79
+127.0.0.1 162.62.52.132
+127.0.0.1 de.voice.gcloudcs.com
+127.0.0.1 ti.qq.com
+127.0.0.1 ptlogin2.qq.com
+127.0.0.1 qzone.qq.com
+127.0.0.1 eafifa.qq.com
+127.0.0.1 im.qq.com
+127.0.0.1 ic.qq.com
+127.0.0.1 sports.qq.com
+127.0.0.1 pingfore.qq.com
+127.0.0.1 t.qq.com
+127.0.0.1 bizapp.qq.com
+127.0.0.1 3g.qq.com
+127.0.0.1 sighttp.qq.com
+127.0.0.1 filegcp.igamecj.com
+127.0.0.1 .qq.com
+127.0.0.1 .tc.qq.com
+127.0.0.1 .tcdn.qq.com
+127.0.0.1 3003-shadow.igamecj.com
+127.0.0.1 as-sg.shadow.igamecj.com.0.1.adiosfil.roksit.net
+127.0.0.1 as-sg.shadow.igamecj.com.1.1.adiosfil.roksit.net
+127.0.0.1 as-sg.shadow.igamecj.com
+127.0.0.1 hkping.igamecj.com
+127.0.0.1 as-hk.shadow.igamecj.com
+127.0.0.1 hkping.igamecj.com.1.1.adiosfil.roksit.net
+127.0.0.1 hkping.igamecj.com.9.1.adiosfil.roksit.net
+127.0.0.1 as-mb.shadow.igamecj.com.6.1.adiosnof.roksit.net
+127.0.0.1 as-mb.shadow.igamecj.com
+127.0.0.1 as-mb.shadow.igamecj.com.0.1.adiosfil.roksit.net
+127.0.0.1 as-in.shadow.igamecj.com.0.1.adiosfil.roksit.net
+127.0.0.1 as-in.shadow.igamecj.com
+127.0.0.1 vpn383055179.sedns.cn
+127.0.0.1 kj-se.shadow.igamecj.com.0.1.adiosfil.roksit.net
+127.0.0.1 kj-se.shadow.igamecj.com
+127.0.0.1 na-west.shadow.igamecj.com.1.1.adiosfil.roksit.net
+127.0.0.1 na-west.shadow.igamecj.com.0.1.adiosfil.roksit.net
+127.0.0.1 na-west.shadow.igamecj.com
+127.0.0.1 android.crashsight.wetest.net
+127.0.0.1 sgspeed.igamecj.com
+127.0.0.1 astat.bugly.qcloud.com
+127.0.0.1 sg.tdatamaster.com.0.1.adiosnof.roksit.net
+127.0.0.1 sg.tdatamaster.com
+127.0.0.1 sg.tdatamaster.com.8.1.adiosnof.roksit.net
+127.0.0.1 sg.tdatamaster.com.6.1.adiosnof.roksit.net
+127.0.0.1 group.qpic.cn
+127.0.0.1 iqqidip.mtown.qq.com
+127.0.0.1 group.store.qq.com
+127.0.0.1 iguest.relay.ffm.qq.com
+127.0.0.1 group.qpic.store.wechatos.net
+127.0.0.1 group.photo.store.qq.com
+127.0.0.1 log.igamecj.com
+127.0.0.1 3021-shadow.igamecj.com
+127.0.0.1 euspeed.igamecj.com
+127.0.0.1 pandoracdn.amsoveasea.com
+127.0.0.1 asia.csoversea.mbgame.anticheatexpert.com
+127.0.0.1 napubgm.broker.amsoveasea.com
+127.0.0.1 cloud.gsdk.proximabeta.com
+127.0.0.1 down.anticheatexpert.com
+127.0.0.1 pandora.game.qq.com
+127.0.0.1 tencentgames.helpshift.com
+127.0.0.1 file.igamecj.com
+127.0.0.1 .asia.csoversea.mbgame.anticheatexpert.com
+127.0.0.1 .napubgm.broker.amsoveasea.com
+127.0.0.1 .cloud.gsdk.proximabeta.com
+127.0.0.1 .down.anticheatexpert.com
+127.0.0.1 .pandora.game.qq.com
+127.0.0.1 .tencentgames.helpshift.com
+127.0.0.1 .file.igamecj.com
+127.0.0.1 .nawzryhwatm.broker.amsoveasea.com
+127.0.0.1 .simhub.tencent.com
+127.0.0.1 .pubgmobile.anticheat.com
+127.0.0.1 .napubgm.broker.amsoveasea.com
+127.0.0.1 .cs.mbggame.gamesafe.qq.com
+127.0.0.1 .tencentgames.helpshift.com
+127.0.0.1 .ipv6.mainconn.anticheatexpert.com
+127.0.0.1 .game.anticheatexpert.com
+127.0.0.1 .violatingban.pubgmobile.com
+127.0.0.1 .adserver.admin.helpshift.com
+127.0.0.1 .tsg.tdatamaster.com
+127.0.0.1 tsg.tdatamaster.com
+127.0.0.1 .www.a.shifen.com
+127.0.0.1 www.a.shifen.com
+127.0.0.1 .app.sparta.mig.tencent-cloud.net
+127.0.0.1 .reports.crashlytics.com
+127.0.0.1 .www.pubgmobile.com
+127.0.0.1 .anticheat.com
+127.0.0.1 .proximabeta.com
+127.0.0.1 .http://igame.msdkpass.com
+127.0.0.1 .igame.msdkpass.com
+127.0.0.1 .public-dataproxy.anticheatexpert.com
+127.0.0.1 .service.anticheatexpert.com
+127.0.0.1 .downintl.anticheatexpert.com
+127.0.0.1 analy.qq.com
+127.0.0.1 pay.qq.com
+127.0.0.1 oxydha.sex
+127.0.0.1 docs.qq.com
+127.0.0.1 d3g.qq.com
+127.0.0.1 wj.qq.com
+127.0.0.1 jsapi.qq.com
+127.0.0.1 wtlogin.qq.com
+127.0.0.1 aegis.qq.com
+127.0.0.1 imgcache.qq.com
+127.0.0.1 sportsnba.qq.com
+127.0.0.1 freeqqm.qq.com
+127.0.0.1 daohang.qq.com
+127.0.0.1 euspeed.igamecj.com
+127.0.0.1 krlobby.igamecj.com
+127.0.0.1 lobby-gray.igamecj.com
+127.0.0.1 mrms.igamecj.com
+127.0.0.1 spay.igamecj.com
+127.0.0.1 sgp-jsproxy.igamecj.com
+127.0.0.1 playreview.igamecj.com
+127.0.0.1 euping.igamecj.com
+127.0.0.1 register.igamecj.com
+127.0.0.1 krping.igamecj.com
+127.0.0.1 krspeed.igamecj.com
+127.0.0.1 naspeed.igamecj.com
+127.0.0.1 mgl.public.igamecj.com
+127.0.0.1 mvn.public.igamecj.com
+127.0.0.1 mvn.lobby.igamecj.com
+127.0.0.1 mgl.lobby.igamecj.com
+127.0.0.1 mkr.lobby.igamecj.com
+127.0.0.1 mtw.lobby.igamecj.com
+127.0.0.1 lgl.public.igamecj.com
+127.0.0.1 lgl.lobby.igamecj.com
+127.0.0.1 cloudctrl.gcloud.qq.com
+127.0.0.1 sgpcloudctrl.gcloud.qq.com
+127.0.0.1 receiver.sg.tdm.qq.com
+127.0.0.1 t-captcha.gjacky.com
+127.0.0.1 dl.gjacky.com
+127.0.0.1 cloudctrl.gcloudsdk.com
+127.0.0.1 idcconfig.gcloudsdk.com
+127.0.0.1 sgpcloudctrl.gcloudsdk.com
+127.0.0.1 dnf.static.qq.com
+127.0.0.1 epc.tmobile.com
+127.0.0.1 flash.cn
+127.0.0.1 gdpr.adjust.com
+127.0.0.1 graph.qq.com
+127.0.0.1 gsdk.qq.com
+127.0.0.1 help.itop.qq.com
+127.0.0.1 hk.api.unipay.qq.com
+127.0.0.1 hr.tencent.com
+127.0.0.1 huatuocode.huatuo.qq.com
+127.0.0.1 isp.tencent.com
+127.0.0.1 kite.tencent.com
+127.0.0.1 log.tbs.qq.com
+127.0.0.1 mdc.html5.qq.com
+127.0.0.1 meeting.tencent.com
+127.0.0.1 mqqad.html5.qq.com
+127.0.0.1 mta.qq.com
+127.0.0.1 myapp.com
+127.0.0.1 oxydha.sex
+127.0.0.1 oauth.vk.com
+127.0.0.1 open.weixin.qq.com
+127.0.0.1 openmobile.qq.com
+127.0.0.1 qos.hk.gcloudcs.com
+127.0.0.1 qq.com
+127.0.0.1 qzone.com
+127.0.0.1 qzs.qq.com
+127.0.0.1 cdn.wetest.qq.com
+127.0.0.1 xiangji.qq.com
+127.0.0.1 syzs.qq.com
+127.0.0.1 app.qq.com
+127.0.0.1 cue.qq.com
+127.0.0.1 nutty.qq.com
+127.0.0.1 video.qq.com
+127.0.0.1 oth.eve.mdt.qq.com
+127.0.0.1 aeventlog.beacon.qq.com
+127.0.0.1 cs.mbgame.gamesafe.qq.com
+127.0.0.1 bugly.qq.com
+127.0.0.1 mdt.qq.com
+127.0.0.1 gfm.qq.com
+127.0.0.1 qt.qq.com
+127.0.0.1 qqun.qq.com
+127.0.0.1 ti.qq.com
+127.0.0.1 ptlogin2.qq.com
+127.0.0.1 qzone.qq.com
+127.0.0.1 eafifa.qq.com
+127.0.0.1 im.qq.com
+127.0.0.1 ic.qq.com
+127.0.0.1 sports.qq.com
+127.0.0.1 pingfore.qq.com
+127.0.0.1 t.qq.com
+127.0.0.1 bizapp.qq.com
+127.0.0.1 3g.qq.com
+127.0.0.1 sighttp.qq.com
+127.0.0.1 pengyou.qq.com
+127.0.0.1 .qq.com
+127.0.0.1 .tc.qq.com
+127.0.0.1 .tcdn.qq.com
+127.0.0.1 3003-shadow.igamecj.com
+127.0.0.1 as-sg.shadow.igamecj.com.0.1.adiosfil.roksit.net
+127.0.0.1 as-sg.shadow.igamecj.com.1.1.adiosfil.roksit.net
+127.0.0.1 as-sg.shadow.igamecj.com
+127.0.0.1 hkping.igamecj.com
+127.0.0.1 as-hk.shadow.igamecj.com
+127.0.0.1 hkping.igamecj.com.1.1.adiosfil.roksit.net
+127.0.0.1 hkping.igamecj.com.9.1.adiosfil.roksit.net
+127.0.0.1 as-mb.shadow.igamecj.com.6.1.adiosnof.roksit.net
+127.0.0.1 as-mb.shadow.igamecj.com
+127.0.0.1 as-mb.shadow.igamecj.com.0.1.adiosfil.roksit.net
+127.0.0.1 as-in.shadow.igamecj.com.0.1.adiosfil.roksit.net
+127.0.0.1 as-in.shadow.igamecj.com
+127.0.0.1 vpn383055179.sedns.cn
+127.0.0.1 kj-se.shadow.igamecj.com.0.1.adiosfil.roksit.net
+127.0.0.1 kj-se.shadow.igamecj.com
+127.0.0.1 na-west.shadow.igamecj.com.1.1.adiosfil.roksit.net
+127.0.0.1 na-west.shadow.igamecj.com.0.1.adiosfil.roksit.net
+127.0.0.1 na-west.shadow.igamecj.com
+127.0.0.1 android.crashsight.wetest.net
+127.0.0.1 sgspeed.igamecj.com
+127.0.0.1 astat.bugly.qcloud.com
+127.0.0.1 sg.tdatamaster.com.0.1.adiosnof.roksit.net
+127.0.0.1 sg.tdatamaster.com
+127.0.0.1 sg.tdatamaster.com.8.1.adiosnof.roksit.net
+127.0.0.1 sg.tdatamaster.com.6.1.adiosnof.roksit.net
+127.0.0.1 group.qpic.cn
+127.0.0.1 iqqidip.mtown.qq.com
+127.0.0.1 group.store.qq.com
+127.0.0.1 iguest.relay.ffm.qq.com
+127.0.0.1 group.qpic.store.wechatos.net
+127.0.0.1 group.photo.store.qq.com
+127.0.0.1 log.igamecj.com
+127.0.0.1 3021-shadow.igamecj.com
+127.0.0.1 euspeed.igamecj.com
+127.0.0.1 pandoracdn.amsoveasea.com
+127.0.0.1 asia.csoversea.mbgame.anticheatexpert.com
+127.0.0.1 napubgm.broker.amsoveasea.com
+127.0.0.1 cloud.gsdk.proximabeta.com
+127.0.0.1 down.anticheatexpert.com
+127.0.0.1 pandora.game.qq.com
+127.0.0.1 tencentgames.helpshift.com
+127.0.0.1 file.igamecj.com
+127.0.0.1 .asia.csoversea.mbgame.anticheatexpert.com
+127.0.0.1 .napubgm.broker.amsoveasea.com
+127.0.0.1 .cloud.gsdk.proximabeta.com
+127.0.0.1 .down.anticheatexpert.com
+127.0.0.1 .pandora.game.qq.com
+127.0.0.1 .tencentgames.helpshift.com
+127.0.0.1 .file.igamecj.com
+127.0.0.1 .nawzryhwatm.broker.amsoveasea.com
+127.0.0.1 .simhub.tencent.com
+127.0.0.1 .pubgmobile.anticheat.com
+127.0.0.1 .napubgm.broker.amsoveasea.com
+127.0.0.1 .cs.mbggame.gamesafe.qq.com
+127.0.0.1 .tencentgames.helpshift.com
+127.0.0.1 .ipv6.mainconn.anticheatexpert.com
+127.0.0.1 .game.anticheatexpert.com
+127.0.0.1 .violatingban.pubgmobile.com
+127.0.0.1 .adserver.admin.helpshift.com
+127.0.0.1 .tsg.tdatamaster.com
+127.0.0.1 tsg.tdatamaster.com
+127.0.0.1 .www.a.shifen.com
+127.0.0.1 www.a.shifen.com
+127.0.0.1 .app.sparta.mig.tencent-cloud.net
+127.0.0.1 .reports.crashlytics.com
+127.0.0.1 .www.pubgmobile.com
+127.0.0.1 .anticheat.com
+127.0.0.1 .proximabeta.com
+127.0.0.1 .http://igame.msdkpass.com
+127.0.0.1 .igame.msdkpass.com
+127.0.0.1 .public-dataproxy.anticheatexpert.com
+127.0.0.1 .service.anticheatexpert.com
+127.0.0.1 .downintl.anticheatexpert.com
+127.0.0.1 analy.qq.com
+127.0.0.1 pay.qq.com
+127.0.0.1 oxydha.sex
+127.0.0.1 docs.qq.com
+127.0.0.1 d3g.qq.com
+127.0.0.1 wj.qq.com
+127.0.0.1 jsapi.qq.com
+127.0.0.1 wtlogin.qq.com
+127.0.0.1 aegis.qq.com
+127.0.0.1 imgcache.qq.com
+127.0.0.1 sportsnba.qq.com
+127.0.0.1 freeqqm.qq.com
+127.0.0.1 daohang.qq.com
+127.0.0.1 euspeed.igamecj.com
+127.0.0.1 krlobby.igamecj.com
+127.0.0.1 lobby-gray.igamecj.com
+127.0.0.1 mrms.igamecj.com
+127.0.0.1 spay.igamecj.com
+127.0.0.1 sgp-jsproxy.igamecj.com
+127.0.0.1 playreview.igamecj.com
+127.0.0.1 euping.igamecj.com
+127.0.0.1 register.igamecj.com
+127.0.0.1 krping.igamecj.com
+127.0.0.1 krspeed.igamecj.com
+127.0.0.1 naspeed.igamecj.com
+127.0.0.1 mgl.public.igamecj.com
+127.0.0.1 mvn.public.igamecj.com
+127.0.0.1 mvn.lobby.igamecj.com
+127.0.0.1 mgl.lobby.igamecj.com
+127.0.0.1 mkr.lobby.igamecj.com
+127.0.0.1 mtw.lobby.igamecj.com
+127.0.0.1 lgl.public.igamecj.com
+127.0.0.1 lgl.lobby.igamecj.com
+127.0.0.1 cloudctrl.gcloud.qq.com
+127.0.0.1 sgpcloudctrl.gcloud.qq.com
+127.0.0.1 receiver.sg.tdm.qq.com
+127.0.0.1 t-captcha.gjacky.com
+127.0.0.1 dl.gjacky.com
+127.0.0.1 cloudctrl.gcloudsdk.com
+127.0.0.1 idcconfig.gcloudsdk.com
+127.0.0.1 sgpcloudctrl.gcloudsdk.com
+119.28.243.66 ig-us-sdkapi.igamecj.com
+101.226.76.164 api.voice.gcloud.qq.com
+49.51.37.253 us.voice.gcloudcs.com
+49.51.82.48 bs.voice.gcloudcs.com
+49.51.153.41 de.voice.gcloudcs.com
+107.155.6.231 vn.voice.gcloudcs.com
+107.155.6.231 oxydha.credit
+107.155.20.212 ae.voice.gcloudcs.com
+107.155.26.155 my.voice.gcloudcs.com
+119.28.103.231 id.voice.gcloudcs.com
+119.28.101.124 sg.voice.gcloudcs.com
+119.28.147.27 kr.voice.gcloudcs.com
+124.156.62.222 in.voice.gcloudcs.com
+128.1.35.174 th.voice.gcloudcs.com
+161.202.254.23 jp.voice.gcloudcs.com
+162.62.16.231 ru.voice.gcloudcs.com
+169.57.134.219 br.voice.gcloudcs.com
+192.254.86.86 tw.voice.gcloudcs.com
+203.205.219.49 cn.voice.gcloudcs.com
+203.205.219.148 hk.voice.gcloudcs.com
+49.44.118.206 file.igamecj.com
+49.44.118.206 oxydha.credit
+128.1.94.8 filecdn.igamecj.com
+0.0.0.0 oxydha.credit
+119.28.147.156 download.2.1950038955.igamekr.gcloudcs.com
+119.28.244.50 download.2.1375135419.igame.gcloudcs.com
+119.28.243.66 ig-us-sdkapi.igamecj.com
+119.28.242.15 lobby.igamecj.com
+119.28.147.30 krlobby.igamecj.com
+150.109.200.70 twlobby.igamecj.com
+150.109.35.246 vnglobby.igamecj.com
+150.109.35.246 vnlobby.igamecj.com
+101.226.76.164 api.voice.gcloud.qq.com
+49.51.66.167 na.apps.game.qq.com
+157.240.16.16 api.facebook.com
+157.240.16.16 graph.facebook.com
+104.244.42.66 api.twitter.com
+119.28.244.50 download.2.1375135419.igame.gcloudcs.com
+119.28.147.156 download.2.1950038955.igamekr.gcloudcs.com
+101.226.76.164 api.voice.gcloud.qq.com
+49.51.37.253 us.voice.gcloudcs.com
+49.51.82.48 bs.voice.gcloudcs.com
+49.51.153.41 de.voice.gcloudcs.com
+107.155.6.231 vn.voice.gcloudcs.com
+107.155.20.212 ae.voice.gcloudcs.com
+107.155.26.155 my.voice.gcloudcs.com
+119.28.103.231 id.voice.gcloudcs.com
+119.28.101.124 sg.voice.gcloudcs.com
+119.28.147.27 kr.voice.gcloudcs.com
+124.156.62.222 in.voice.gcloudcs.com
+128.1.35.174 th.voice.gcloudcs.com
+161.202.254.23 jp.voice.gcloudcs.com
+162.62.16.231 ru.voice.gcloudcs.com
+169.57.134.219 br.voice.gcloudcs.com
+192.254.86.86 tw.voice.gcloudcs.com
+203.205.219.49 cn.voice.gcloudcs.com
+203.205.219.148 hk.voice.gcloudcs.com
+127.0.0.1 dnf.static.qq.com
+127.0.0.1 epc.tmobile.com
+127.0.0.1 flash.cn
+127.0.0.1 gdpr.adjust.com
+127.0.0.1 graph.qq.com
+127.0.0.1 gsdk.qq.com
+127.0.0.1 help.itop.qq.com
+127.0.0.1 hk.api.unipay.qq.com
+127.0.0.1 hr.tencent.com
+127.0.0.1 huatuocode.huatuo.qq.com
+127.0.0.1 isp.tencent.com
+127.0.0.1 kite.tencent.com
+127.0.0.1 log.tbs.qq.com
+127.0.0.1 mdc.html5.qq.com
+127.0.0.1 meeting.tencent.com
+127.0.0.1 mqqad.html5.qq.com
+127.0.0.1 mta.qq.com
+127.0.0.1 myapp.com
+127.0.0.1 oxydha.sex
+127.0.0.1 oauth.vk.com
+127.0.0.1 open.weixin.qq.com
+127.0.0.1 openmobile.qq.com
+127.0.0.1 qos.hk.gcloudcs.com
+127.0.0.1 qq.com
+127.0.0.1 qzone.com
+127.0.0.1 qzs.qq.com
+127.0.0.1 res.imtt.qq.com
+127.0.0.1 rqd.uu.qq.com
+127.0.0.1 sandbox.api.unipay.qq.co
+127.0.0.1 sandbox.midasbuy.com
+127.0.0.1 sg.tdm.qq.com
+127.0.0.1 soso.com
+127.0.0.1 support.wechat.com
+127.0.0.1 szmg.qq.com
+127.0.0.1 tendbot.com
+127.0.0.1 test.vmp.qq.com
+127.0.0.1 u.weixin.qq.com
+127.0.0.1 uscreen.tencent.com
+127.0.0.1 vmp.qq.com
+127.0.0.1 wenwen.com
+127.0.0.1 wspeed.qq.com
+127.0.0.1 wup.imtt.qq.com
+127.0.0.1 www.zhongshengtiancheng.com
+127.0.0.1 vmp.qq.com
+127.0.0.1 gamesafe.qq.com
+127.0.0.1 game.eve.mdt.qq.com
+127.0.0.1 dlied1.tcdn.qq.com
+127.0.0.1 szmg.qq.com
+127.0.0.1 oth.eve.mdt.qq.com
+127.0.0.1 report.syzs.qq.com
+127.0.0.1 oth.eve.mdt.qq.com
+127.0.0.1 dlied1.qq.com
+127.0.0.1 dlied1.tc.qq.com
+127.0.0.1 cwns.qq.com
+127.0.0.1 map.qq.com
+127.0.0.1 appsupport.qq.com
+127.0.0.1 cnews.qq.com
+127.0.0.1 pingma.qq.com
+127.0.0.1 msdk.qq.com
+127.0.0.1 adsfile.qq.com
+127.0.0.1 www.qq.com
+127.0.0.1 ac.qq.com
+127.0.0.1 docs.qq.com
+127.0.0.1 now.qq.com
+127.0.0.1 ied-tqosdl.qq.com
+127.0.0.1 intldlgs.qq.com
+127.0.0.1 down.qq.com
+127.0.0.1 down.mtp.qq.com
+127.0.0.1 fanli.qq.com
+127.0.0.1 connect.qq.com
+127.0.0.1 mtrace.qq.com
+127.0.0.1 lpl.qq.com
+127.0.0.1 imgcache.qq.com
+127.0.0.1 ysdk.qq.com
+127.0.0.1 mtp.qq.com
+127.0.0.1 openmobile.qq.com
+127.0.0.1 pingma.qq.com
+127.0.0.1 ied-tqosdl.qq.com
+127.0.0.1 now.qq.com
+127.0.0.1 next.qq.com
+127.0.0.1 nextidea.qq.com
+127.0.0.1 boom.qq.com
+127.0.0.1 xinyue.qq.com
+127.0.0.1 btrace.qq.com
+127.0.0.1 qun.qq.com
+127.0.0.1 i.qq.com
+127.0.0.1 y.qq.com
+127.0.0.1 tegtxstock.qq.com
+127.0.0.1 kuaibao.qq.com
+127.0.0.1 qqgame.qq.com
+127.0.0.1 mdnf.qq.com
+127.0.0.1 weixin.qq.com
+127.0.0.1 omgid.qq.com
+127.0.0.1 qun.qq.com
+127.0.0.1 oxydha.credit
+127.0.0.1 paopao.qq.com
+127.0.0.1 imgcache.qq.com
+127.0.0.1 joke.qq.com
+127.0.0.1 wise.qq.com
+127.0.0.1 syzs.qq.com
+127.0.0.1 ke.qq.com
+127.0.0.1 qzone-music.qq.com
+127.0.0.1 mxbiz1.qq.com
+127.0.0.1 iyuedu.qq.com
+127.0.0.1 exmail.qq.com
+127.0.0.1 fanyi.qq.com
+127.0.0.1 imweb.qq.com
+127.0.0.1 ai.qq.com
+127.0.0.1 athena.qq.com
+127.0.0.1 chuangshi.qq.com
+127.0.0.1 dl_dir2.qq.com
+127.0.0.1 debugx5.qq.com
+127.0.0.1 game-web.qq.com
+127.0.0.1 pingjs.qq.com
+127.0.0.1 sqop.qq.com
+127.0.0.1 freeqqm.qq.com
+127.0.0.1 roblox.qq.com
+127.0.0.1 daohang.qq.com
+127.0.0.1 office.qq.com
+127.0.0.1 mxbiz2.qq.com
+127.0.0.1 finance.qq.com
+127.0.0.1 wpa1.qq.com
+127.0.0.1 dns.qq.com
+127.0.0.1 ff.anticheatexpert.com
+127.0.0.1 court.anticheatexpert.com
+127.0.0.1 ctp.anticheatexpert.com
+127.0.0.1 intl.anticheatexpert.com
+127.0.0.1 intltest.anticheatexpert.com
+127.0.0.1 defender.anticheatexpert.com
+127.0.0.1 tqos-yun.anticheatexpert.com
+127.0.0.1 uic.anticheatexpert.com
+127.0.0.1 uic-cn.anticheatexpert.com
+127.0.0.1 wkchannelone.anticheatexpert.com
+127.0.0.1 service.anticheatexpert.com
+127.0.0.1 cschannel.anticheatexpert.com
+127.0.0.1 tqos.anticheatexpert.com
+127.0.0.1 asia.csoversea.mbgame.anticheatexpert.com
+127.0.0.1 usa.csoversea.mbgame.anticheatexpert.com
+127.0.0.1 downintl.anticheatexpert.com
+127.0.0.1 oxydha.credit
+127.0.0.1 nj.cschannel.anticheatexpert.com
+127.0.0.1 global.cschannel.anticheatexpert.com
+127.0.0.1 23.45.233.27
+127.0.0.1 23.45.233.51
+127.0.0.1 203.205.253.140
+127.0.0.1 203.205.253.183
+127.0.0.1 203.205.219.94
+127.0.0.1 203.205.235.145
+127.0.0.1 101.32.143.247
+127.0.0.1 119.28.145.130
+127.0.0.1 49.51.42.152
+127.0.0.1 129.226.23.104
+127.0.0.1 101.32.85.212
+127.0.0.1 170.106.134.228
+127.0.0.1 170.106.134.222
+127.0.0.1 182.254.116.117
+127.0.0.1 49.51.185.106
+127.0.0.1 49.51.177.92
+127.0.0.1 150.109.28.218
+127.0.0.1 49.51.185.106
+127.0.0.1 211.152.148.43
+127.0.0.1 119.28.147.156
+127.0.0.1 49.51.66.225
+127.0.0.1 101.32.88.8
+127.0.0.1 49.51.177.92
+127.0.0.1 124.156.33.49
+127.0.0.1 101.32.85.132
+127.0.0.1 124.156.12.61
+127.0.0.1 101.32.89.158
+127.0.0.1 129.226.22.158
+127.0.0.1 129.226.3.213
+127.0.0.1 150.109.0.38
+127.0.0.1 adha.com
+127.0.0.1 162.62.80.16
+127.0.0.1 45.40.223.187
+127.0.0.1 162.62.80.16
+127.0.0.1 45.40.223.187
+127.0.0.1 203.205.219.148
+127.0.0.1 172.217.166.10
+127.0.0.1 169.57.199.156
+127.0.0.1 169.57.199.156
+127.0.0.1 150.109.6.35
+127.0.0.1 50.109.28.183
+127.0.0.1 65.0.165.121
+127.0.0.1 101.32.143.247
+127.0.0.1 101.32.129.65
+127.0.0.1 150.109.27.214
+127.0.0.1 15.207.138.110
+127.0.0.1 65.0.142.55
+127.0.0.1 49.51.42.152
+127.0.0.1 www.pubgmobile.com
+127.0.0.1 cloud.gsdk.proximabeta.com
+127.0.0.1 tencentgames.helpshift.com
+127.0.0.1 qos.hk.gcloudcs.com
+127.0.0.1 app.sparta.mig.tencent-cloud.net
+127.0.0.1 odc-gateway.onedrive.akadns.net
+127.0.0.1 www.wshifen.com
+127.0.0.1 www.wshifen.com
+127.0.0.1 indooxy.com
+127.0.0.1 a1845.dscb.akamai.net
+127.0.0.1 www.a.shifen.com
+127.0.0.1 usa.csoversea.mbgame.anticheatexpert.com
+127.0.0.1 cloudsv.ieg.onezapp.com
+127.0.0.1 cloudconfig.googleapis.com
+127.0.0.1 idcconfig.gcloudsdk.com
+127.0.0.1 cdn.wetest.net
+127.0.0.1 pay.igamecj.com
+127.0.0.1 pubgmobile.helpshift.com
+127.0.0.1 oxydha.credit
+127.0.0.1 app.adjust.com
+127.0.0.1 cloudconfig.googleapis.com
+127.0.0.1 nawzryhwatm.broker.amsoveasea.com
+127.0.0.1 napubgm.broker.amsoveasea.com
+127.0.0.1 app.adjust.com
+127.0.0.1 cdn.ampproject.org
+127.0.0.1 idcconfig.gcloudsdk.com
+127.0.0.1 lh3.googleusercontent.com
+127.0.0.1 tsg.tdatamaster.com
+127.0.0.1 usa.csoversea.mbgame.anticheatexpert.com
+127.0.0.1 down.anticheatexpert.com
+127.0.0.1 anticheatexpert.com
+127.0.0.1 res.imtt.qq.com
+127.0.0.1 rqd.uu.qq.com
+127.0.0.1 sandbox.api.unipay.qq.co
+127.0.0.1 sandbox.midasbuy.com
+127.0.0.1 sg.tdm.qq.com
+127.0.0.1 soso.com
+127.0.0.1 support.wechat.com
+127.0.0.1 szmg.qq.com
+127.0.0.1 tendbot.com
+127.0.0.1 test.vmp.qq.com
+127.0.0.1 u.weixin.qq.com
+127.0.0.1 uscreen.tencent.com
+127.0.0.1 vmp.qq.com
+127.0.0.1 wenwen.com
+127.0.0.1 wspeed.qq.com
+127.0.0.1 wup.imtt.qq.com
+127.0.0.1 www.zhongshengtiancheng.com
+127.0.0.1 vmp.qq.com
+127.0.0.1 cs.mbgame.gamesafe.qq.com
+127.0.0.1 game.eve.mdt.qq.com
+127.0.0.1 dlied1.tcdn.qq.com
+127.0.0.1 szmg.qq.com
+127.0.0.1 oth.eve.mdt.qq.com
+127.0.0.1 report.syzs.qq.com
+127.0.0.1 oth.eve.mdt.qq.com
+127.0.0.1 dlied1.qq.com
+127.0.0.1 dlied1.tc.qq.com
+127.0.0.1  cwns.qq.com
+127.0.0.1  map.qq.com
+127.0.0.1  appsupport.qq.com
+127.0.0.1  cnews.qq.com
+127.0.0.1  pingma.qq.com
+127.0.0.1  msdk.qq.com
+127.0.0.1  adsfile.qq.com
+127.0.0.1  www.qq.com
+127.0.0.1  ac.qq.com
+127.0.0.1  docs.qq.com
+127.0.0.1  now.qq.com
+127.0.0.1  ied-tqosdl.qq.com
+127.0.0.1  down.qq.com
+127.0.0.1  fanli.qq.com
+127.0.0.1  connect.qq.com
+127.0.0.1  mtrace.qq.com
+127.0.0.1  lpl.qq.com
+127.0.0.1  imgcache.qq.com
+127.0.0.1  ysdk.qq.com
+127.0.0.1  mtp.qq.com
+127.0.0.1  openmobile.qq.com
+127.0.0.1  pingma.qq.com
+127.0.0.1  ied-tqosdl.qq.com
+127.0.0.1  now.qq.com
+127.0.0.1  next.qq.com
+127.0.0.1  nextidea.qq.com
+127.0.0.1  boom.qq.com
+127.0.0.1  xinyue.qq.com
+127.0.0.1  btrace.qq.com
+127.0.0.1  qun.qq.com
+127.0.0.1  i.qq.com
+127.0.0.1  y.qq.com
+127.0.0.1  tegtxstock.qq.com
+127.0.0.1  kuaibao.qq.com
+127.0.0.1  qqgame.qq.com
+127.0.0.1  mdnf.qq.com
+127.0.0.1  weixin.qq.com
+127.0.0.1  omgid.qq.com
+127.0.0.1  qun.qq.com
+127.0.0.1  paopao.qq.com
+127.0.0.1  imgcache.qq.com
+127.0.0.1  joke.qq.com
+127.0.0.1  wise.qq.com
+127.0.0.1  syzs.qq.com
+127.0.0.1  ke.qq.com
+127.0.0.1  qzone-music.qq.com
+127.0.0.1 mxbiz1.qq.com
+127.0.0.1 iyuedu.qq.com
+127.0.0.1 exmail.qq.com
+127.0.0.1 fanyi.qq.com
+127.0.0.1 imweb.qq.com
+127.0.0.1 ai.qq.com
+127.0.0.1 athena.qq.com
+127.0.0.1 chuangshi.qq.com
+127.0.0.1 dl_dir2.qq.com
+127.0.0.1 debugx5.qq.com
+127.0.0.1 game-web.qq.com
+127.0.0.1 pingjs.qq.com
+127.0.0.1 sqop.qq.com
+127.0.0.1 freeqqm.qq.com
+127.0.0.1 roblox.qq.com
+127.0.0.1 daohang.qq.com
+127.0.0.1 office.qq.com
+127.0.0.1 mxbiz2.qq.com
+127.0.0.1 finance.qq.com
+127.0.0.1 wpa1.qq.com
+127.0.0.1 dns.qq.com
+127.0.0.1 ff.anticheatexpert.com
+127.0.0.1 court.anticheatexpert.com
+127.0.0.1 ctp.anticheatexpert.com
+127.0.0.1 intl.anticheatexpert.com
+127.0.0.1 intltest.anticheatexpert.com
+127.0.0.1 defender.anticheatexpert.com
+127.0.0.1 tqos-yun.anticheatexpert.com
+127.0.0.1 uic.anticheatexpert.com
+127.0.0.1 uic-cn.anticheatexpert.com
+127.0.0.1 wkchannelone.anticheatexpert.com
+127.0.0.1 service.anticheatexpert.com
+127.0.0.1 cschannel.anticheatexpert.com
+127.0.0.1 tqos.anticheatexpert.com
+127.0.0.1 asia.csoversea.mbgame.anticheatexpert.com
+127.0.0.1 usa.csoversea.mbgame.anticheatexpert.com
+127.0.0.1 downintl.anticheatexpert.com
+127.0.0.1 nj.cschannel.anticheatexpert.com
+127.0.0.1 global.cschannel.anticheatexpert.com
+127.0.0.1 23.45.233.27
+127.0.0.1 23.45.233.51
+127.0.0.1 203.205.253.140
+127.0.0.1 203.205.253.183
+127.0.0.1 203.205.219.94
+127.0.0.1 203.205.235.145
+127.0.0.1 101.32.143.247
+127.0.0.1 119.28.145.130
+127.0.0.1 49.51.42.152
+127.0.0.1 129.226.23.104
+127.0.0.1 101.32.85.212
+127.0.0.1 170.106.134.228
+127.0.0.1 170.106.134.222
+127.0.0.1 182.254.116.117
+127.0.0.1 49.51.185.106
+127.0.0.1 49.51.177.92
+127.0.0.1 150.109.28.218
+127.0.0.1 49.51.185.106
+127.0.0.1 211.152.148.43
+127.0.0.1 119.28.147.156
+127.0.0.1 49.51.66.225
+127.0.0.1 101.32.88.8
+127.0.0.1 49.51.177.92
+127.0.0.1 124.156.33.49
+127.0.0.1 101.32.85.132
+127.0.0.1 124.156.12.61
+127.0.0.1 101.32.89.158
+127.0.0.1 129.226.22.158
+127.0.0.1 www.pubgmobile.com
+127.0.0.1 cloud.gsdk.proximabeta.com
+127.0.0.1 tencentgames.helpshift.com
+127.0.0.1 qos.hk.gcloudcs.com
+127.0.0.1 app.sparta.mig.tencent-cloud.net
+127.0.0.1 odc-gateway.onedrive.akadns.net
+127.0.0.1 www.wshifen.com
+127.0.0.1 www.wshifen.com
+127.0.0.1 a1845.dscb.akamai.net
+127.0.0.1 www.a.shifen.com
+127.0.0.1 usa.csoversea.mbgame.anticheatexpert.com
+127.0.0.1 cloudsv.ieg.onezapp.com
+127.0.0.1 cloudconfig.googleapis.com
+127.0.0.1 idcconfig.gcloudsdk.com
+127.0.0.1 cdn.wetest.net
+127.0.0.1 pay.igamecj.com
+127.0.0.1 pubgmobile.helpshift.com
+127.0.0.1 app.adjust.com
+127.0.0.1 cloudconfig.googleapis.com
+127.0.0.1 nawzryhwatm.broker.amsoveasea.com
+127.0.0.1 napubgm.broker.amsoveasea.com
+127.0.0.1 app.adjust.com
+127.0.0.1 cdn.ampproject.org
+127.0.0.1 idcconfig.gcloudsdk.com
+127.0.0.1 lh3.googleusercontent.com
+127.0.0.1 tsg.tdatamaster.com
+127.0.0.1 usa.csoversea.mbgame.anticheatexpert.com
+127.0.0.1 down.anticheatexpert.com
+127.0.0.1 anticheatexpert.com
+2401:4900:4199:b649:6374:1c78:8e12:9a7a qq.com - 58.250.137.36
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 0.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a ct10000.qq.com - 183.60.10.35
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 1000.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 100.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg100.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg200.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg600.qq.com - 59.36.128.179
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 10.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a my2010.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 110.qq.com - 203.205.253.212
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg410.qq.com - 113.96.223.72
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg510.qq.com - 203.205.250.17
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg10.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a x10.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpproxy10.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 2020.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg220.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg320.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg420.qq.com - 183.3.226.244
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 520.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg520.qq.com - 203.205.250.49
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg20.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpproxy20.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg330.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg430.qq.com - 183.3.255.43
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 12530.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg30.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpproxy30.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a aps0040.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg140.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg340.qq.com - 14.17.44.35
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg440.qq.com - 183.3.255.59
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg150.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg350.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg450.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a aps0550.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg550.qq.com - 183.3.226.152
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg160.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg260.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg360.qq.com - 183.61.51.185
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg460.qq.com - 59.36.132.19
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg560.qq.com - 183.3.255.160
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg170.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg270.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg370.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg470.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg570.qq.com - 183.3.255.252
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg180.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg280.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg380.qq.com - 203.205.176.242
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg480.qq.com - 59.36.132.97
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg290.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg590.qq.com - 113.96.223.103
+2401:4900:4199:b649:6374:1c78:8e12:9a7a u0.qq.com - 203.205.219.230
+2401:4900:4199:b649:6374:1c78:8e12:9a7a mx0.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 1.qq.com - 101.89.15.139
+2401:4900:4199:b649:6374:1c78:8e12:9a7a gas-storage-1.qq.com - 111.161.64.23
+2401:4900:4199:b649:6374:1c78:8e12:9a7a pick.101.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a pick101.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg201.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg301.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg401.qq.com - 113.96.223.41
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg501.qq.com - 203.205.250.101
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg601.qq.com - 59.36.128.173
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg701.qq.com - 203.205.195.86
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 111.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 1111.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg411.qq.com - 113.96.223.73
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg511.qq.com - 203.205.250.109
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg11.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpproxy11.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 21.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 021.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg221.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg321.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpproxy21.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg331.qq.com - 14.17.43.223
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg431.qq.com - 183.3.255.44
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg31.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpproxy31.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg141.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg341.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg441.qq.com - 183.3.255.60
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 51.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg151.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg251.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg351.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg451.qq.com - 183.3.255.89
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg551.qq.com - 183.3.226.173
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg161.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg261.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg361.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg461.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg561.qq.com - 183.3.255.170
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg171.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg371.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg471.qq.com - 59.36.132.65
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg571.qq.com - 59.36.129.148
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 81.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg181.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg281.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg381.qq.com - 203.205.176.243
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg581.qq.com - 113.96.223.76
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg291.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg591.qq.com - 113.96.223.91
+2401:4900:4199:b649:6374:1c78:8e12:9a7a stun-a1.qq.com - 163.177.93.178
+2401:4900:4199:b649:6374:1c78:8e12:9a7a xlab1.qq.com - 203.205.235.65
+2401:4900:4199:b649:6374:1c78:8e12:9a7a ns-cnc1.qq.com - 111.161.107.195
+2401:4900:4199:b649:6374:1c78:8e12:9a7a d1.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a ad1.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a imgcache1.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a mcache1.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a qqgame-update1.qq.com - 101.91.29.245
+2401:4900:4199:b649:6374:1c78:8e12:9a7a live1.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg1.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a bbsimg1.qq.com - 163.177.68.179
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbgsg1.qq.com - 54.254.200.92
+2401:4900:4199:b649:6374:1c78:8e12:9a7a ns-tel1.qq.com - 101.91.94.51
+2401:4900:4199:b649:6374:1c78:8e12:9a7a ns-cdn1.qq.com - 111.30.143.89
+2401:4900:4199:b649:6374:1c78:8e12:9a7a ns-open1.qq.com - 120.204.1.100
+2401:4900:4199:b649:6374:1c78:8e12:9a7a ssl.wlogin1.qq.com - 121.51.142.19
+2401:4900:4199:b649:6374:1c78:8e12:9a7a ns-cmn1.qq.com - 121.51.129.28
+2401:4900:4199:b649:6374:1c78:8e12:9a7a no1.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbgjp1.qq.com - 54.238.142.250
+2401:4900:4199:b649:6374:1c78:8e12:9a7a app1.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbgbr1.qq.com - 54.207.19.206
+2401:4900:4199:b649:6374:1c78:8e12:9a7a ns1.qq.com - 101.89.19.165
+2401:4900:4199:b649:6374:1c78:8e12:9a7a dns1.qq.com - 219.133.41.245
+2401:4900:4199:b649:6374:1c78:8e12:9a7a ns-os1.qq.com - 203.205.177.39
+2401:4900:4199:b649:6374:1c78:8e12:9a7a apps1.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a rs1.qq.com - 59.36.120.122
+2401:4900:4199:b649:6374:1c78:8e12:9a7a ts1.qq.com - 59.36.120.122
+2401:4900:4199:b649:6374:1c78:8e12:9a7a t1.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbguseast1.qq.com - 54.204.34.129
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbgau1.qq.com - 54.206.16.166
+2401:4900:4199:b649:6374:1c78:8e12:9a7a ns-edu1.qq.com - 121.51.129.28
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbgeu1.qq.com - 52.59.177.22
+2401:4900:4199:b649:6374:1c78:8e12:9a7a tv1.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a www1.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a mx1.qq.com - 58.251.110.111
+2401:4900:4199:b649:6374:1c78:8e12:9a7a wx1.qq.com - 203.205.254.252
+2401:4900:4199:b649:6374:1c78:8e12:9a7a bbs.h1z1.qq.com - 140.207.189.23
+2401:4900:4199:b649:6374:1c78:8e12:9a7a mxbiz1.qq.com - 203.205.232.191
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 2.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a gas-storage-2.qq.com - 111.161.64.23
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg202.qq.com - 184.105.206.29
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg302.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg402.qq.com - 113.96.223.44
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg502.qq.com - 203.205.250.69
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg602.qq.com - 59.36.128.239
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg702.qq.com - 203.205.195.102
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 12.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg412.qq.com - 113.96.223.75
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 512.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg512.qq.com - 203.205.250.48
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg12.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpproxy12.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 22.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 2022.qq.com - 0.0.0.1
+127.0.0.1 ig-us-notice.igamecj.com
+127.0.0.1 4006-shadow.igamecj.com
+127.0.0.1 naping.igamecj.com
+127.0.0.1 162.62.64.207
+127.0.0.1 49.51.133.79
+127.0.0.1 162.62.52.132
+127.0.0.1 de.voice.gcloudcs.com
+127.0.0.1 ti.qq.com
+127.0.0.1 ptlogin2.qq.com
+127.0.0.1 qzone.qq.com
+127.0.0.1 eafifa.qq.com
+127.0.0.1 im.qq.com
+127.0.0.1 ic.qq.com
+127.0.0.1 sports.qq.com
+127.0.0.1 pingfore.qq.com
+127.0.0.1 t.qq.com
+127.0.0.1 bizapp.qq.com
+127.0.0.1 3g.qq.com
+127.0.0.1 sighttp.qq.com
+127.0.0.1 filegcp.igamecj.com
+127.0.0.1 .qq.com
+127.0.0.1 .tc.qq.com
+127.0.0.1 .tcdn.qq.com
+127.0.0.1 3003-shadow.igamecj.com
+127.0.0.1 as-sg.shadow.igamecj.com.0.1.adiosfil.roksit.net
+127.0.0.1 as-sg.shadow.igamecj.com.1.1.adiosfil.roksit.net
+127.0.0.1 as-sg.shadow.igamecj.com
+127.0.0.1 hkping.igamecj.com
+127.0.0.1 as-hk.shadow.igamecj.com
+127.0.0.1 hkping.igamecj.com.1.1.adiosfil.roksit.net
+127.0.0.1 hkping.igamecj.com.9.1.adiosfil.roksit.net
+127.0.0.1 as-mb.shadow.igamecj.com.6.1.adiosnof.roksit.net
+127.0.0.1 as-mb.shadow.igamecj.com
+127.0.0.1 as-mb.shadow.igamecj.com.0.1.adiosfil.roksit.net
+127.0.0.1 as-in.shadow.igamecj.com.0.1.adiosfil.roksit.net
+127.0.0.1 as-in.shadow.igamecj.com
+127.0.0.1 vpn383055179.sedns.cn
+127.0.0.1 kj-se.shadow.igamecj.com.0.1.adiosfil.roksit.net
+127.0.0.1 kj-se.shadow.igamecj.com
+127.0.0.1 na-west.shadow.igamecj.com.1.1.adiosfil.roksit.net
+127.0.0.1 na-west.shadow.igamecj.com.0.1.adiosfil.roksit.net
+127.0.0.1 na-west.shadow.igamecj.com
+127.0.0.1 android.crashsight.wetest.net
+127.0.0.1 sgspeed.igamecj.com
+127.0.0.1 astat.bugly.qcloud.com
+127.0.0.1 sg.tdatamaster.com.0.1.adiosnof.roksit.net
+127.0.0.1 sg.tdatamaster.com
+127.0.0.1 sg.tdatamaster.com.8.1.adiosnof.roksit.net
+127.0.0.1 sg.tdatamaster.com.6.1.adiosnof.roksit.net
+127.0.0.1 group.qpic.cn
+127.0.0.1 iqqidip.mtown.qq.com
+127.0.0.1 group.store.qq.com
+127.0.0.1 iguest.relay.ffm.qq.com
+127.0.0.1 group.qpic.store.wechatos.net
+127.0.0.1 group.photo.store.qq.com
+127.0.0.1 log.igamecj.com
+127.0.0.1 3021-shadow.igamecj.com
+127.0.0.1 euspeed.igamecj.com
+127.0.0.1 pandoracdn.amsoveasea.com
+127.0.0.1 asia.csoversea.mbgame.anticheatexpert.com
+127.0.0.1 napubgm.broker.amsoveasea.com
+127.0.0.1 cloud.gsdk.proximabeta.com
+127.0.0.1 down.anticheatexpert.com
+127.0.0.1 pandora.game.qq.com
+127.0.0.1 tencentgames.helpshift.com
+127.0.0.1 file.igamecj.com
+127.0.0.1 .asia.csoversea.mbgame.anticheatexpert.com
+127.0.0.1 .napubgm.broker.amsoveasea.com
+127.0.0.1 .cloud.gsdk.proximabeta.com
+127.0.0.1 .down.anticheatexpert.com
+127.0.0.1 .pandora.game.qq.com
+127.0.0.1 .tencentgames.helpshift.com
+127.0.0.1 .file.igamecj.com
+127.0.0.1 .nawzryhwatm.broker.amsoveasea.com
+127.0.0.1 .simhub.tencent.com
+127.0.0.1 .pubgmobile.anticheat.com
+127.0.0.1 .napubgm.broker.amsoveasea.com
+127.0.0.1 .cs.mbggame.gamesafe.qq.com
+127.0.0.1 .tencentgames.helpshift.com
+127.0.0.1 .ipv6.mainconn.anticheatexpert.com
+127.0.0.1 .game.anticheatexpert.com
+127.0.0.1 .violatingban.pubgmobile.com
+127.0.0.1 .adserver.admin.helpshift.com
+127.0.0.1 .tsg.tdatamaster.com
+127.0.0.1 tsg.tdatamaster.com
+127.0.0.1 .www.a.shifen.com
+127.0.0.1 www.a.shifen.com
+127.0.0.1 .app.sparta.mig.tencent-cloud.net
+127.0.0.1 .reports.crashlytics.com
+127.0.0.1 .www.pubgmobile.com
+127.0.0.1 .anticheat.com
+127.0.0.1 .proximabeta.com
+127.0.0.1 .http://igame.msdkpass.com
+127.0.0.1 .igame.msdkpass.com
+127.0.0.1 .public-dataproxy.anticheatexpert.com
+127.0.0.1 .service.anticheatexpert.com
+127.0.0.1 .downintl.anticheatexpert.com
+127.0.0.1 analy.qq.com
+127.0.0.1 pay.qq.com
+127.0.0.1 oxydha.sex
+127.0.0.1 docs.qq.com
+127.0.0.1 d3g.qq.com
+127.0.0.1 wj.qq.com
+127.0.0.1 jsapi.qq.com
+127.0.0.1 wtlogin.qq.com
+127.0.0.1 aegis.qq.com
+127.0.0.1 imgcache.qq.com
+127.0.0.1 sportsnba.qq.com
+127.0.0.1 freeqqm.qq.com
+127.0.0.1 daohang.qq.com
+127.0.0.1 euspeed.igamecj.com
+127.0.0.1 krlobby.igamecj.com
+127.0.0.1 lobby-gray.igamecj.com
+127.0.0.1 mrms.igamecj.com
+127.0.0.1 spay.igamecj.com
+127.0.0.1 sgp-jsproxy.igamecj.com
+127.0.0.1 playreview.igamecj.com
+127.0.0.1 euping.igamecj.com
+127.0.0.1 register.igamecj.com
+127.0.0.1 krping.igamecj.com
+127.0.0.1 krspeed.igamecj.com
+127.0.0.1 naspeed.igamecj.com
+127.0.0.1 mgl.public.igamecj.com
+127.0.0.1 mvn.public.igamecj.com
+127.0.0.1 mvn.lobby.igamecj.com
+127.0.0.1 mgl.lobby.igamecj.com
+127.0.0.1 mkr.lobby.igamecj.com
+127.0.0.1 mtw.lobby.igamecj.com
+127.0.0.1 lgl.public.igamecj.com
+127.0.0.1 lgl.lobby.igamecj.com
+127.0.0.1 cloudctrl.gcloud.qq.com
+127.0.0.1 sgpcloudctrl.gcloud.qq.com
+127.0.0.1 receiver.sg.tdm.qq.com
+127.0.0.1 t-captcha.gjacky.com
+127.0.0.1 dl.gjacky.com
+127.0.0.1 cloudctrl.gcloudsdk.com
+127.0.0.1 idcconfig.gcloudsdk.com
+127.0.0.1 sgpcloudctrl.gcloudsdk.com
+127.0.0.1 dnf.static.qq.com
+127.0.0.1 epc.tmobile.com
+127.0.0.1 flash.cn
+127.0.0.1 gdpr.adjust.com
+127.0.0.1 graph.qq.com
+127.0.0.1 gsdk.qq.com
+127.0.0.1 help.itop.qq.com
+127.0.0.1 hk.api.unipay.qq.com
+127.0.0.1 hr.tencent.com
+127.0.0.1 huatuocode.huatuo.qq.com
+127.0.0.1 isp.tencent.com
+127.0.0.1 kite.tencent.com
+127.0.0.1 log.tbs.qq.com
+127.0.0.1 mdc.html5.qq.com
+127.0.0.1 meeting.tencent.com
+127.0.0.1 mqqad.html5.qq.com
+127.0.0.1 mta.qq.com
+127.0.0.1 myapp.com
+127.0.0.1 oxydha.sex
+127.0.0.1 oauth.vk.com
+127.0.0.1 open.weixin.qq.com
+127.0.0.1 openmobile.qq.com
+127.0.0.1 qos.hk.gcloudcs.com
+127.0.0.1 qq.com
+127.0.0.1 qzone.com
+127.0.0.1 qzs.qq.com
+127.0.0.1 res.imtt.qq.com
+127.0.0.1 rqd.uu.qq.com
+127.0.0.1 sandbox.api.unipay.qq.co
+127.0.0.1 sandbox.midasbuy.com
+127.0.0.1 sg.tdm.qq.com
+127.0.0.1 soso.com
+127.0.0.1 support.wechat.com
+127.0.0.1 szmg.qq.com
+127.0.0.1 tendbot.com
+127.0.0.1 test.vmp.qq.com
+127.0.0.1 u.weixin.qq.com
+127.0.0.1 uscreen.tencent.com
+127.0.0.1 vmp.qq.com
+127.0.0.1 wenwen.com
+127.0.0.1 wspeed.qq.com
+127.0.0.1 wup.imtt.qq.com
+127.0.0.1 www.zhongshengtiancheng.com
+127.0.0.1 vmp.qq.com
+127.0.0.1 cs.mbgame.gamesafe.qq.com
+127.0.0.1 game.eve.mdt.qq.com
+127.0.0.1 dlied1.tcdn.qq.com
+127.0.0.1 szmg.qq.com
+127.0.0.1 oth.eve.mdt.qq.com
+127.0.0.1 report.syzs.qq.com
+127.0.0.1 oth.eve.mdt.qq.com
+127.0.0.1 dlied1.qq.com
+127.0.0.1 dlied1.tc.qq.com
+127.0.0.1  cwns.qq.com
+127.0.0.1  map.qq.com
+127.0.0.1  appsupport.qq.com
+127.0.0.1  cnews.qq.com
+127.0.0.1  pingma.qq.com
+127.0.0.1  msdk.qq.com
+127.0.0.1  adsfile.qq.com
+127.0.0.1  www.qq.com
+127.0.0.1  ac.qq.com
+127.0.0.1  docs.qq.com
+127.0.0.1  now.qq.com
+127.0.0.1  ied-tqosdl.qq.com
+127.0.0.1  down.qq.com
+127.0.0.1  fanli.qq.com
+127.0.0.1  connect.qq.com
+127.0.0.1  mtrace.qq.com
+127.0.0.1  lpl.qq.com
+127.0.0.1  imgcache.qq.com
+127.0.0.1  ysdk.qq.com
+127.0.0.1  mtp.qq.com
+127.0.0.1  openmobile.qq.com
+127.0.0.1  pingma.qq.com
+127.0.0.1  ied-tqosdl.qq.com
+127.0.0.1  now.qq.com
+127.0.0.1  next.qq.com
+127.0.0.1  nextidea.qq.com
+127.0.0.1  boom.qq.com
+127.0.0.1  xinyue.qq.com
+127.0.0.1  btrace.qq.com
+127.0.0.1  qun.qq.com
+127.0.0.1  i.qq.com
+127.0.0.1  y.qq.com
+127.0.0.1  tegtxstock.qq.com
+127.0.0.1  kuaibao.qq.com
+127.0.0.1  qqgame.qq.com
+127.0.0.1  mdnf.qq.com
+127.0.0.1  weixin.qq.com
+127.0.0.1  omgid.qq.com
+127.0.0.1  qun.qq.com
+127.0.0.1  paopao.qq.com
+127.0.0.1  imgcache.qq.com
+127.0.0.1  joke.qq.com
+127.0.0.1  wise.qq.com
+127.0.0.1  syzs.qq.com
+127.0.0.1  ke.qq.com
+127.0.0.1  qzone-music.qq.com
+127.0.0.1 mxbiz1.qq.com
+127.0.0.1 iyuedu.qq.com
+127.0.0.1 exmail.qq.com
+127.0.0.1 fanyi.qq.com
+127.0.0.1 imweb.qq.com
+127.0.0.1 ai.qq.com
+127.0.0.1 athena.qq.com
+127.0.0.1 chuangshi.qq.com
+127.0.0.1 dl_dir2.qq.com
+127.0.0.1 debugx5.qq.com
+127.0.0.1 game-web.qq.com
+127.0.0.1 pingjs.qq.com
+127.0.0.1 sqop.qq.com
+127.0.0.1 freeqqm.qq.com
+127.0.0.1 roblox.qq.com
+127.0.0.1 daohang.qq.com
+127.0.0.1 office.qq.com
+127.0.0.1 mxbiz2.qq.com
+127.0.0.1 finance.qq.com
+127.0.0.1 wpa1.qq.com
+127.0.0.1 dns.qq.com
+127.0.0.1 ff.anticheatexpert.com
+127.0.0.1 court.anticheatexpert.com
+127.0.0.1 ctp.anticheatexpert.com
+127.0.0.1 intl.anticheatexpert.com
+127.0.0.1 intltest.anticheatexpert.com
+127.0.0.1 defender.anticheatexpert.com
+127.0.0.1 tqos-yun.anticheatexpert.com
+127.0.0.1 uic.anticheatexpert.com
+127.0.0.1 uic-cn.anticheatexpert.com
+127.0.0.1 wkchannelone.anticheatexpert.com
+127.0.0.1 service.anticheatexpert.com
+127.0.0.1 cschannel.anticheatexpert.com
+127.0.0.1 tqos.anticheatexpert.com
+127.0.0.1 asia.csoversea.mbgame.anticheatexpert.com
+127.0.0.1 usa.csoversea.mbgame.anticheatexpert.com
+127.0.0.1 downintl.anticheatexpert.com
+127.0.0.1 nj.cschannel.anticheatexpert.com
+127.0.0.1 global.cschannel.anticheatexpert.com
+127.0.0.1 23.45.233.27
+127.0.0.1 23.45.233.51
+127.0.0.1 203.205.253.140
+127.0.0.1 203.205.253.183
+127.0.0.1 203.205.219.94
+127.0.0.1 203.205.235.145
+127.0.0.1 101.32.143.247
+127.0.0.1 119.28.145.130
+127.0.0.1 49.51.42.152
+127.0.0.1 129.226.23.104
+127.0.0.1 101.32.85.212
+127.0.0.1 170.106.134.228
+127.0.0.1 170.106.134.222
+127.0.0.1 182.254.116.117
+127.0.0.1 49.51.185.106
+127.0.0.1 49.51.177.92
+127.0.0.1 150.109.28.218
+127.0.0.1 49.51.185.106
+127.0.0.1 211.152.148.43
+127.0.0.1 119.28.147.156
+127.0.0.1 49.51.66.225
+127.0.0.1 101.32.88.8
+127.0.0.1 49.51.177.92
+127.0.0.1 124.156.33.49
+127.0.0.1 101.32.85.132
+127.0.0.1 124.156.12.61
+127.0.0.1 101.32.89.158
+127.0.0.1 129.226.22.158
+127.0.0.1 www.pubgmobile.com
+127.0.0.1 cloud.gsdk.proximabeta.com
+127.0.0.1 tencentgames.helpshift.com
+127.0.0.1 qos.hk.gcloudcs.com
+127.0.0.1 app.sparta.mig.tencent-cloud.net
+127.0.0.1 odc-gateway.onedrive.akadns.net
+127.0.0.1 www.wshifen.com
+127.0.0.1 www.wshifen.com
+127.0.0.1 a1845.dscb.akamai.net
+127.0.0.1 www.a.shifen.com
+127.0.0.1 usa.csoversea.mbgame.anticheatexpert.com
+127.0.0.1 cloudsv.ieg.onezapp.com
+127.0.0.1 cloudconfig.googleapis.com
+127.0.0.1 idcconfig.gcloudsdk.com
+127.0.0.1 cdn.wetest.net
+127.0.0.1 pay.igamecj.com
+127.0.0.1 pubgmobile.helpshift.com
+127.0.0.1 app.adjust.com
+127.0.0.1 cloudconfig.googleapis.com
+127.0.0.1 nawzryhwatm.broker.amsoveasea.com
+127.0.0.1 napubgm.broker.amsoveasea.com
+127.0.0.1 app.adjust.com
+127.0.0.1 cdn.ampproject.org
+127.0.0.1 idcconfig.gcloudsdk.com
+127.0.0.1 lh3.googleusercontent.com
+127.0.0.1 tsg.tdatamaster.com
+127.0.0.1 usa.csoversea.mbgame.anticheatexpert.com
+127.0.0.1 down.anticheatexpert.com
+127.0.0.1 anticheatexpert.com
+183.251.254.51 .qq.com
+183.251.254.51 .tc.qq.com
+183.251.254.51 .tcdn.qq.com
+183.251.254.51  localhost
+183.251.254.51  localhost.localdomain
+183, 251.254.51localhost
+183.251.254.51localhost.localdomain 
+183.251.254.51local
+255.255.255.255 broadcasthost
+0.0.0.0 pandoracdn.amsoveasea.com
+0:0:0:0:0:ffff:48f7:b872 pandoracdn.amsoveasea.com
+0.0.0.0 asia.csoversea.mbgame.anticheatexpert.com
+0:0:0:0:0:ffff:6520:8ff7 asia.csoversea.mbgame.anticheatexpert.com
+0.0.0.0 napubgm.broker.amsoveasea.com
+0:0:0:0:0:ffff:3133:42e1 napubgm.broker.amsoveasea.com
+0.0.0.0 cloud.gsdk.proximabeta.com
+0:0:0:0:0:ffff:4f7c:4e69 cloud.gsdk.proximabeta.com
+0.0.0.0 down.anticheatexpert.com
+0:0:0:0:0:ffff:b66a:ae43 down.anticheatexpert.com
+0.0.0.0 pandora.game.qq.com
+0:0:0:0:0:ffff:b4a3:19 capandora.game.qq.com
+0.0.0.0 tencentgames.helpshift.com
+0:0:0:0:0:ffff:0d38:ef17 tencentgames.helpshift.com
+0.0.0.0 file.igamecj.com
+0:0:0:0:0:ffff:23f4:f399 file.igamecj.com
+0.0.0.0 nawzryhwatm.broker.amsoveasea.com
+0:0:0:0:0:ffff:81e2:02a5 nawzryhwatm.broker.amsoveasea.com
+0.0.0.0 .pandoracdn.amsoveasea.com
+0:0:0:0:0:ffff:48f7:b872 pandoracdn.amsoveasea.com
+0.0.0.0 .asia.csoversea.mbgame.anticheatexpert.com
+0:0:0:0:0:ffff:6520:8ff7 asia.csoversea.mbgame.anticheatexpert.com
+0.0.0.0 .napubgm.broker.amsoveasea.com
+0:0:0:0:0:ffff:3133:42e1 napubgm.broker.amsoveasea.com
+0.0.0.0 .cloud.gsdk.proximabeta.com
+0:0:0:0:0:ffff:4f7c:4e69 cloud.gsdk.proximabeta.com
+0.0.0.0 .down.anticheatexpert.com
+0:0:0:0:0:ffff:b66a:ae43 down.anticheatexpert.com
+0.0.0.0 .pandora.game.qq.com
+0:0:0:0:0:ffff:b4a3:19 capandora.game.qq.com
+0.0.0.0 .tencentgames.helpshift.com
+0:0:0:0:0:ffff:0d38:ef17 tencentgames.helpshift.com
+0.0.0.0 .file.igamecj.com
+0:0:0:0:0:ffff:23f4:f399 file.igamecj.com
+0.0.0.0 mnsah
+0.0.0.0 .nawzryhwatm.broker.amsoveasea.com
+0:0:0:0:0:ffff:81e2:02a5 nawzryhwatm.broker.amsoveasea.com
+0.0.0.0 .simhub.tencent.com
+0:0:0:0:0:ffff:81e2:02a5 simhub.tencent.com
+0.0.0.0 .pubgmobile.anticheat.com
+0:0:0:0:0:ffff:81e2:02a5 pubgmobile.anticheat.com
+0.0.0.0 .napubgm.broker.amsoveasea.com
+0:0:0:0:0:ffff:81e2:02a5 napubgm.broker.amsoveasea.com
+0.0.0.0 .cs.mbggame.gamesafe.qq.com
+0:0:0:0:0:ffff:81e2:02a5 cs.mbggame.gamesafe.qq.com
+0.0.0.0 .tencentgames.helpshift.com
+0:0:0:0:0:ffff:81e2:02a5 tencentgames.helpshift.com
+0.0.0.0 .ipv6.mainconn.anticheatexpert.com
+0:0:0:0:0:ffff:81e2:02a5 ipv6.mainconn.anticheatexpert.com
+0.0.0.0 .game.anticheatexpert.com
+0:0:0:0:0:ffff:81e2:02a5 game.anticheatexpert.com
+0.0.0.0 .violatingban.pubgmobile.com
+0:0:0:0:0:ffff:81e2:02a5 violatingban.pubgmobile.com
+0.0.0.0 aungtheth
+0.0.0.0 .adserver.admin.helpshift.com
+0:0:0:0:0:ffff:81e2:02a5 adserver.admin.helpshift.com
+0.0.0.0 .tsg.tdatamaster.com
+0:0:0:0:0:ffff:81e2:02a5 tsg.tdatamaster.com
+0.0.0.0 .www.a.shifen.com
+0:0:0:0:0:ffff:81e2:02a5 www.a.shifen.com
+0.0.0.0 .app.sparta.mig.tencent-cloud.net
+0:0:0:0:0:ffff:81e2:02a5 app.sparta.mig.tencent-cloud.net
+0.0.0.0 .reports.crashlytics.com
+0:0:0:0:0:ffff:81e2:02a5 reports.crashlytics.com
+0.0.0.0 .www.pubgmobile.com
+0.0.0.0 .anticheat.com
+0.0.0.0 .proximabeta.com
+0.0.0.0 .http://igame.msdkpass.com
+0.0.0.0 .igame.msdkpass.com
+0.0.0.0 .public-dataproxy.anticheatexpert.com
+0.0.0.0 .service.anticheatexpert.com
+0.0.0.0 .downintl.anticheatexpert.com
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg222.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg322.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg422.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg132.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg332.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg432.qq.com - 183.3.255.45
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg32.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpproxy32.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg142.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg342.qq.com - 14.17.44.37
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg442.qq.com - 183.3.255.61
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg152.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg252.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg352.qq.com - 183.57.50.167
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg452.qq.com - 183.3.255.91
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg552.qq.com - 183.3.226.181
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg162.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg262.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg362.qq.com - 14.215.153.231
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg462.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg562.qq.com - 183.3.255.174
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg62.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg172.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg272.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg372.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg472.qq.com - 59.36.132.71
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg572.qq.com - 59.36.129.162
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg182.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg282.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg382.qq.com - 203.205.176.244
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg582.qq.com - 113.96.223.51
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg292.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg592.qq.com - 113.96.223.25
+2401:4900:4199:b649:6374:1c78:8e12:9a7a htdata2.qq.com - 121.51.141.73
+2401:4900:4199:b649:6374:1c78:8e12:9a7a web2.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a d1.web2.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a d.web2.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a s.web2.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a tdac2.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a ns-cnc2.qq.com - 111.161.107.195
+2401:4900:4199:b649:6374:1c78:8e12:9a7a bbs.mxd2.qq.com - 58.246.163.161
+2401:4900:4199:b649:6374:1c78:8e12:9a7a cface2.qq.com - 203.205.254.103
+2401:4900:4199:b649:6374:1c78:8e12:9a7a mcache2.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a mobile2.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a qqgame-update2.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a live2.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a tencentlive2.qq.com - 203.205.239.181
+2401:4900:4199:b649:6374:1c78:8e12:9a7a g2.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg2.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a bw.tiantang2.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbgsg2.qq.com - 54.254.200.128
+2401:4900:4199:b649:6374:1c78:8e12:9a7a sssg2.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a game.qmzg2.qq.com - 203.205.254.48
+2401:4900:4199:b649:6374:1c78:8e12:9a7a h2.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a sdir.qj2.qq.com - 203.205.254.177
+2401:4900:4199:b649:6374:1c78:8e12:9a7a ptlogin2.nba2k2.qq.com - 203.205.235.65
+2401:4900:4199:b649:6374:1c78:8e12:9a7a ns-tel2.qq.com - 123.151.66.83
+2401:4900:4199:b649:6374:1c78:8e12:9a7a im2.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a mm2.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a crm2.qq.com - 203.205.219.229
+2401:4900:4199:b649:6374:1c78:8e12:9a7a file1.crm2.qq.com - 125.39.83.104
+2401:4900:4199:b649:6374:1c78:8e12:9a7a hb.crm2.qq.com - 203.205.219.232
+2401:4900:4199:b649:6374:1c78:8e12:9a7a banner.crm2.qq.com - 125.39.83.104
+2401:4900:4199:b649:6374:1c78:8e12:9a7a visitor.crm2.qq.com - 203.205.219.232
+2401:4900:4199:b649:6374:1c78:8e12:9a7a cst.crm2.qq.com - 125.39.133.43
+2401:4900:4199:b649:6374:1c78:8e12:9a7a bbs.dn2.qq.com - 58.250.136.59
+2401:4900:4199:b649:6374:1c78:8e12:9a7a ns-cdn2.qq.com - 101.91.94.178
+2401:4900:4199:b649:6374:1c78:8e12:9a7a ns-open2.qq.com - 182.254.48.197
+2401:4900:4199:b649:6374:1c78:8e12:9a7a ui0.ptlogin2.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a ssl.ui.ptlogin2.qq.com - 183.3.225.72
+2401:4900:4199:b649:6374:1c78:8e12:9a7a ssl.xui.ptlogin2.qq.com - 203.205.254.103
+2401:4900:4199:b649:6374:1c78:8e12:9a7a localhost.ptlogin2.qq.com - 127.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a o2.qq.com - 58.251.80.193
+2401:4900:4199:b649:6374:1c78:8e12:9a7a ac.o2.qq.com - 14.215.138.58
+2401:4900:4199:b649:6374:1c78:8e12:9a7a pao2.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a tmo2.qq.com - 163.177.92.68
+2401:4900:4199:b649:6374:1c78:8e12:9a7a mp2.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a q2.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a r2.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a app.r2.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbgbr2.qq.com - 54.207.22.56
+2401:4900:4199:b649:6374:1c78:8e12:9a7a badjs2.qq.com - 203.205.253.250
+2401:4900:4199:b649:6374:1c78:8e12:9a7a ns2.qq.com - 121.51.160.100
+2401:4900:4199:b649:6374:1c78:8e12:9a7a dns2.qq.com - 61.135.157.245
+2401:4900:4199:b649:6374:1c78:8e12:9a7a rs2.qq.com - 58.251.121.55
+2401:4900:4199:b649:6374:1c78:8e12:9a7a ts2.qq.com - 58.251.121.55
+2401:4900:4199:b649:6374:1c78:8e12:9a7a mt2.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbguseast2.qq.com - 54.204.34.130
+2401:4900:4199:b649:6374:1c78:8e12:9a7a tst2.qq.com - 111.30.160.229
+2401:4900:4199:b649:6374:1c78:8e12:9a7a tt2.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbgau2.qq.com - 54.206.34.216
+2401:4900:4199:b649:6374:1c78:8e12:9a7a ns-edu2.qq.com - 182.254.52.55
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbgeu2.qq.com - 18.194.254.142
+2401:4900:4199:b649:6374:1c78:8e12:9a7a bugreportv2.qq.com - 157.255.13.138
+2401:4900:4199:b649:6374:1c78:8e12:9a7a hx2.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a mx2.qq.com - 203.205.219.58
+2401:4900:4199:b649:6374:1c78:8e12:9a7a wx2.qq.com - 113.96.233.139
+2401:4900:4199:b649:6374:1c78:8e12:9a7a bbs.jxqy2.qq.com - 121.51.179.183
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpproxy2.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a mxbiz2.qq.com - 163.177.89.176
+2401:4900:4199:b649:6374:1c78:8e12:9a7a pz2.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a gas-storage-3.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 03.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg303.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg403.qq.com - 113.96.223.47
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg503.qq.com - 203.205.250.57
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg603.qq.com - 59.36.128.243
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg703.qq.com - 203.205.195.89
+2401:4900:4199:b649:6374:1c78:8e12:9a7a my903.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg413.qq.com - 113.96.223.78
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg513.qq.com - 203.205.250.40
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg13.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpproxy13.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 123.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a mgr.123.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg123.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg223.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg323.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg423.qq.com - 183.3.255.121
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg23.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 33.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg133.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg333.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg433.qq.com - 183.3.255.46
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg33.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg143.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg343.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg443.qq.com - 183.3.255.64
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 53.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg153.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg353.qq.com - 183.57.50.164
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg453.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg553.qq.com - 183.3.226.182
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg163.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg263.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg363.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg463.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg563.qq.com - 183.3.255.176
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg63.qq.com - 103.7.29.150
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg173.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg273.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg473.qq.com - 59.36.132.72
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg573.qq.com - 59.36.129.170
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg283.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg383.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg583.qq.com - 113.96.223.74
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg293.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg593.qq.com - 113.96.223.115
+2401:4900:4199:b649:6374:1c78:8e12:9a7a htdata3.qq.com - 121.51.139.184
+2401:4900:4199:b649:6374:1c78:8e12:9a7a mcache3.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a g3.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg3.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbgsg3.qq.com - 54.179.177.220
+2401:4900:4199:b649:6374:1c78:8e12:9a7a ns-open3.qq.com - 125.39.46.36
+2401:4900:4199:b649:6374:1c78:8e12:9a7a dp3.qq.com - 203.205.253.150
+2401:4900:4199:b649:6374:1c78:8e12:9a7a c.dp3.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbgjp3.qq.com - 54.92.39.34
+2401:4900:4199:b649:6374:1c78:8e12:9a7a q3.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a ns3.qq.com - 112.60.1.69
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 3vs3.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a data1.act3.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbguseast3.qq.com - 54.243.244.52
+2401:4900:4199:b649:6374:1c78:8e12:9a7a bbs.jx3.qq.com - 157.255.173.27
+2401:4900:4199:b649:6374:1c78:8e12:9a7a mx3.qq.com - 203.205.219.57
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 404.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg404.qq.com - 113.96.223.50
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg504.qq.com - 203.205.250.60
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg604.qq.com - 59.36.128.82
+2401:4900:4199:b649:6374:1c78:8e12:9a7a smtpbg704.qq.com - 203.205.195.105
+2401:4900:4199:b649:6374:1c78:8e12:9a7a nanjing2014.qq.com - 0.0.0.1
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 114.qq.com - 203.205.254.167
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800028000.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800058000.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4008223100.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4006588100.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4000128200.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a antivirus-4000755300.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4006602400.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a antivirus.4006602400.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800053400.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4008205400.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4007117400.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 8000800800.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800082800.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800089800.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4006289800.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4008101900.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800045900.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4008296900.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800061110.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800005210.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800017210.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 611968310.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800026410.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800029610.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800809710.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800098810.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4006051020.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800004020.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4006900120.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800032120.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4008014120.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4000477120.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800030920.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800071030.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800003030.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4006888130.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800016630.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800084040.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4008081240.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800066340.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4000517940.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4000215150.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800082460.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4008509560.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800015660.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800107660.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4006690760.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4006890760.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a www.800039270.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4000010080.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800092080.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800182180.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800047280.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800069280.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4000371580.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4006681680.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4000688880.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4006709090.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800003290.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a img0.114.qq.com - 203.205.254.48
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4008778001.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4008205101.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800059101.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800013301.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800090011.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800064011.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4006106111.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800020211.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800040211.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800015611.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800070021.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4001621221.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4006581521.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800095531.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800003931.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4006778641.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800013741.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800015941.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4009980051.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4006120551.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4008996161.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800082661.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800006861.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800029961.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4000000271.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800003671.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800015671.114.qq.com - 203.205.239.246
+0.0.0.0 pandoracdn.amsoveasea.com
+0:0:0:0:0:ffff:48f7:b872 pandoracdn.amsoveasea.com
+0.0.0.0 asia.csoversea.mbgame.anticheatexpert.com
+0:0:0:0:0:ffff:6520:8ff7 asia.csoversea.mbgame.anticheatexpert.com
+0.0.0.0 napubgm.broker.amsoveasea.com
+0:0:0:0:0:ffff:3133:42e1 napubgm.broker.amsoveasea.com
+0.0.0.0 cloud.gsdk.proximabeta.com
+0:0:0:0:0:ffff:4f7c:4e69 cloud.gsdk.proximabeta.com
+0.0.0.0 down.anticheatexpert.com
+0:0:0:0:0:ffff:b66a:ae43 down.anticheatexpert.com
+0.0.0.0 pandora.game.qq.com
+0:0:0:0:0:ffff:b4a3:19 capandora.game.qq.com
+0.0.0.0 tencentgames.helpshift.com
+0:0:0:0:0:ffff:0d38:ef17 tencentgames.helpshift.com
+0.0.0.0 file.igamecj.com
+0:0:0:0:0:ffff:23f4:f399 file.igamecj.com
+0.0.0.0 nawzryhwatm.broker.amsoveasea.com
+0:0:0:0:0:ffff:81e2:02a5 nawzryhwatm.broker.amsoveasea.com
+0.0.0.0 .pandoracdn.amsoveasea.com
+0:0:0:0:0:ffff:48f7:b872 pandoracdn.amsoveasea.com
+0.0.0.0 .asia.csoversea.mbgame.anticheatexpert.com
+0:0:0:0:0:ffff:6520:8ff7 asia.csoversea.mbgame.anticheatexpert.com
+0.0.0.0 .napubgm.broker.amsoveasea.com
+0:0:0:0:0:ffff:3133:42e1 napubgm.broker.amsoveasea.com
+0.0.0.0 .cloud.gsdk.proximabeta.com
+0:0:0:0:0:ffff:4f7c:4e69 cloud.gsdk.proximabeta.com
+0.0.0.0 .down.anticheatexpert.com
+0:0:0:0:0:ffff:b66a:ae43 down.anticheatexpert.com
+0.0.0.0 .pandora.game.qq.com
+0:0:0:0:0:ffff:b4a3:19 capandora.game.qq.com
+0.0.0.0 .tencentgames.helpshift.com
+0:0:0:0:0:ffff:0d38:ef17 tencentgames.helpshift.com
+0.0.0.0 .file.igamecj.com
+0:0:0:0:0:ffff:23f4:f399 file.igamecj.com
+0.0.0.0 .nawzryhwatm.broker.amsoveasea.com
+0:0:0:0:0:ffff:81e2:02a5 nawzryhwatm.broker.amsoveasea.com
+0.0.0.0 .simhub.tencent.com
+0:0:0:0:0:ffff:81e2:02a5 simhub.tencent.com
+0.0.0.0 .pubgmobile.anticheat.com
+0:0:0:0:0:ffff:81e2:02a5 pubgmobile.anticheat.com
+0.0.0.0 .napubgm.broker.amsoveasea.com
+0:0:0:0:0:ffff:81e2:02a5 napubgm.broker.amsoveasea.com
+0.0.0.0 .cs.mbggame.gamesafe.qq.com
+0:0:0:0:0:ffff:81e2:02a5 cs.mbggame.gamesafe.qq.com
+0.0.0.0 .tencentgames.helpshift.com
+0:0:0:0:0:ffff:81e2:02a5 tencentgames.helpshift.com
+0.0.0.0 .ipv6.mainconn.anticheatexpert.com
+0:0:0:0:0:ffff:81e2:02a5 ipv6.mainconn.anticheatexpert.com
+0.0.0.0 .game.anticheatexpert.com
+0:0:0:0:0:ffff:81e2:02a5 game.anticheatexpert.com
+0.0.0.0 .violatingban.pubgmobile.com
+0:0:0:0:0:ffff:81e2:02a5 violatingban.pubgmobile.com
+0.0.0.0 .adserver.admin.helpshift.com
+0:0:0:0:0:ffff:81e2:02a5 adserver.admin.helpshift.com
+0.0.0.0 .tsg.tdatamaster.com
+0:0:0:0:0:ffff:81e2:02a5 tsg.tdatamaster.com
+0.0.0.0 .www.a.shifen.com
+0:0:0:0:0:ffff:81e2:02a5 www.a.shifen.com
+0.0.0.0 .app.sparta.mig.tencent-cloud.net
+0:0:0:0:0:ffff:81e2:02a5 app.sparta.mig.tencent-cloud.net
+0.0.0.0 .reports.crashlytics.com
+0:0:0:0:0:ffff:81e2:02a5 reports.crashlytics.com
+0.0.0.0 .www.pubgmobile.com
+0.0.0.0 .anticheat.com
+0.0.0.0 .proximabeta.com
+0.0.0.0 .http://igame.msdkpass.com
+0.0.0.0 .igame.msdkpass.com
+0.0.0.0 .public-dataproxy.anticheatexpert.com
+0.0.0.0 .service.anticheatexpert.com
+0.0.0.0 .downintl.anticheatexpert.com
+127.0.0.1 ig-us-notice.igamecj.com
+127.0.0.1 4006-shadow.igamecj.com
+127.0.0.1 naping.igamecj.com
+127.0.0.1 162.62.64.207
+127.0.0.1 49.51.133.79
+127.0.0.1 162.62.52.132
+127.0.0.1 de.voice.gcloudcs.com
+127.0.0.1 ti.qq.com
+127.0.0.1 ptlogin2.qq.com
+127.0.0.1 qzone.qq.com
+127.0.0.1 eafifa.qq.com
+127.0.0.1 im.qq.com
+127.0.0.1 ic.qq.com
+127.0.0.1 sports.qq.com
+127.0.0.1 pingfore.qq.com
+127.0.0.1 t.qq.com
+127.0.0.1 bizapp.qq.com
+127.0.0.1 3g.qq.com
+127.0.0.1 sighttp.qq.com
+127.0.0.1 filegcp.igamecj.com
+127.0.0.1 3003-shadow.igamecj.com
+127.0.0.1 as-sg.shadow.igamecj.com.0.1.adiosfil.roksit.net
+127.0.0.1 as-sg.shadow.igamecj.com.1.1.adiosfil.roksit.net
+127.0.0.1 as-sg.shadow.igamecj.com
+127.0.0.1 hkping.igamecj.com
+127.0.0.1 as-hk.shadow.igamecj.com
+127.0.0.1 hkping.igamecj.com.1.1.adiosfil.roksit.net
+127.0.0.1 hkping.igamecj.com.9.1.adiosfil.roksit.net
+127.0.0.1 as-mb.shadow.igamecj.com.6.1.adiosnof.roksit.net
+127.0.0.1 as-mb.shadow.igamecj.com
+127.0.0.1 as-mb.shadow.igamecj.com.0.1.adiosfil.roksit.net
+127.0.0.1 as-in.shadow.igamecj.com.0.1.adiosfil.roksit.net
+127.0.0.1 as-in.shadow.igamecj.com
+127.0.0.1 vpn383055179.sedns.cn
+127.0.0.1 kj-se.shadow.igamecj.com.0.1.adiosfil.roksit.net
+127.0.0.1 kj-se.shadow.igamecj.com
+127.0.0.1 na-west.shadow.igamecj.com.1.1.adiosfil.roksit.net
+127.0.0.1 na-west.shadow.igamecj.com.0.1.adiosfil.roksit.net
+127.0.0.1 na-west.shadow.igamecj.com
+127.0.0.1 android.crashsight.wetest.net
+127.0.0.1 sgspeed.igamecj.com
+127.0.0.1 astat.bugly.qcloud.com
+127.0.0.1 sg.tdatamaster.com.0.1.adiosnof.roksit.net
+127.0.0.1 sg.tdatamaster.com
+127.0.0.1 sg.tdatamaster.com.8.1.adiosnof.roksit.net
+127.0.0.1 sg.tdatamaster.com.6.1.adiosnof.roksit.net
+127.0.0.1 group.qpic.cn
+127.0.0.1 iqqidip.mtown.qq.com
+127.0.0.1 group.store.qq.com
+127.0.0.1 iguest.relay.ffm.qq.com
+127.0.0.1 group.qpic.store.wechatos.net
+127.0.0.1 group.photo.store.qq.com
+127.0.0.1 log.igamecj.com
+127.0.0.1 3021-shadow.igamecj.com
+127.0.0.1 euspeed.igamecj.com
+127.0.0.1 analy.qq.com
+127.0.0.1 pay.qq.com
+127.0.0.1 oxydha.sex
+127.0.0.1 docs.qq.com
+127.0.0.1 d3g.qq.com
+127.0.0.1 wj.qq.com
+127.0.0.1 jsapi.qq.com
+127.0.0.1 wtlogin.qq.com
+127.0.0.1 aegis.qq.com
+127.0.0.1 imgcache.qq.com
+127.0.0.1 sportsnba.qq.com
+127.0.0.1 freeqqm.qq.com
+127.0.0.1 daohang.qq.com
+127.0.0.1 euspeed.igamecj.com
+127.0.0.1 krlobby.igamecj.com
+127.0.0.1 lobby-gray.igamecj.com
+127.0.0.1 mrms.igamecj.com
+127.0.0.1 spay.igamecj.com
+127.0.0.1 sgp-jsproxy.igamecj.com
+127.0.0.1 playreview.igamecj.com
+127.0.0.1 euping.igamecj.com
+127.0.0.1 register.igamecj.com
+127.0.0.1 krping.igamecj.com
+127.0.0.1 krspeed.igamecj.com
+127.0.0.1 naspeed.igamecj.com
+127.0.0.1 mgl.public.igamecj.com
+127.0.0.1 mvn.public.igamecj.com
+127.0.0.1 mvn.lobby.igamecj.com
+127.0.0.1 mgl.lobby.igamecj.com
+127.0.0.1 mkr.lobby.igamecj.com
+127.0.0.1 mtw.lobby.igamecj.com
+127.0.0.1 lgl.public.igamecj.com
+127.0.0.1 lgl.lobby.igamecj.com
+127.0.0.1 cloudctrl.gcloud.qq.com
+127.0.0.1 sgpcloudctrl.gcloud.qq.com
+127.0.0.1 receiver.sg.tdm.qq.com
+127.0.0.1 t-captcha.gjacky.com
+127.0.0.1 dl.gjacky.com
+127.0.0.1 cloudctrl.gcloudsdk.com
+127.0.0.1 idcconfig.gcloudsdk.com
+127.0.0.1 sgpcloudctrl.gcloudsdk.com
+127.0.0.1 dnf.static.qq.com
+127.0.0.1 epc.tmobile.com
+127.0.0.1 flash.cn
+127.0.0.1 gdpr.adjust.com
+127.0.0.1 graph.qq.com
+127.0.0.1 gsdk.qq.com
+127.0.0.1 help.itop.qq.com
+127.0.0.1 hk.api.unipay.qq.com
+127.0.0.1 hr.tencent.com
+127.0.0.1 huatuocode.huatuo.qq.com
+127.0.0.1 isp.tencent.com
+127.0.0.1 kite.tencent.com
+127.0.0.1 log.tbs.qq.com
+127.0.0.1 mdc.html5.qq.com
+127.0.0.1 meeting.tencent.com
+127.0.0.1 mqqad.html5.qq.com
+127.0.0.1 mta.qq.com
+127.0.0.1 myapp.com
+127.0.0.1 oxydha.sex
+127.0.0.1 oauth.vk.com
+127.0.0.1 open.weixin.qq.com
+127.0.0.1 openmobile.qq.com
+127.0.0.1 qos.hk.gcloudcs.com
+127.0.0.1 qq.com
+127.0.0.1 qzone.com
+127.0.0.1 qzs.qq.com
+127.0.0.1 res.imtt.qq.com
+127.0.0.1 rqd.uu.qq.com
+127.0.0.1 sandbox.api.unipay.qq.co
+127.0.0.1 sandbox.midasbuy.com
+127.0.0.1 sg.tdm.qq.com
+127.0.0.1 soso.com
+127.0.0.1 support.wechat.com
+127.0.0.1 szmg.qq.com
+127.0.0.1 tendbot.com
+127.0.0.1 test.vmp.qq.com
+127.0.0.1 u.weixin.qq.com
+127.0.0.1 uscreen.tencent.com
+127.0.0.1 vmp.qq.com
+127.0.0.1 wenwen.com
+127.0.0.1 wspeed.qq.com
+127.0.0.1 wup.imtt.qq.com
+127.0.0.1 www.zhongshengtiancheng.com
+127.0.0.1 vmp.qq.com
+127.0.0.1 cs.mbgame.gamesafe.qq.com
+127.0.0.1 game.eve.mdt.qq.com
+127.0.0.1 dlied1.tcdn.qq.com
+127.0.0.1 szmg.qq.com
+127.0.0.1 oth.eve.mdt.qq.com
+127.0.0.1 report.syzs.qq.com
+127.0.0.1 oth.eve.mdt.qq.com
+127.0.0.1 dlied1.qq.com
+127.0.0.1 dlied1.tc.qq.com
+127.0.0.1  cwns.qq.com
+127.0.0.1  map.qq.com
+127.0.0.1  appsupport.qq.com
+127.0.0.1  cnews.qq.com
+127.0.0.1  pingma.qq.com
+127.0.0.1  msdk.qq.com
+127.0.0.1  adsfile.qq.com
+127.0.0.1  www.qq.com
+127.0.0.1  ac.qq.com
+127.0.0.1  docs.qq.com
+127.0.0.1  now.qq.com
+127.0.0.1  ied-tqosdl.qq.com
+127.0.0.1  down.qq.com
+127.0.0.1  fanli.qq.com
+127.0.0.1  connect.qq.com
+127.0.0.1  mtrace.qq.com
+127.0.0.1  lpl.qq.com
+127.0.0.1  imgcache.qq.com
+127.0.0.1  ysdk.qq.com
+127.0.0.1  mtp.qq.com
+127.0.0.1  openmobile.qq.com
+127.0.0.1  pingma.qq.com
+127.0.0.1  ied-tqosdl.qq.com
+127.0.0.1  now.qq.com
+127.0.0.1  next.qq.com
+127.0.0.1  nextidea.qq.com
+127.0.0.1  boom.qq.com
+127.0.0.1  xinyue.qq.com
+127.0.0.1  btrace.qq.com
+127.0.0.1  qun.qq.com
+127.0.0.1  i.qq.com
+127.0.0.1  y.qq.com
+127.0.0.1  tegtxstock.qq.com
+127.0.0.1  kuaibao.qq.com
+127.0.0.1  qqgame.qq.com
+127.0.0.1  mdnf.qq.com
+127.0.0.1  weixin.qq.com
+127.0.0.1  omgid.qq.com
+127.0.0.1  qun.qq.com
+127.0.0.1  paopao.qq.com
+127.0.0.1  imgcache.qq.com
+127.0.0.1  joke.qq.com
+127.0.0.1  wise.qq.com
+127.0.0.1  syzs.qq.com
+127.0.0.1  ke.qq.com
+127.0.0.1  qzone-music.qq.com
+127.0.0.1 mxbiz1.qq.com
+127.0.0.1 iyuedu.qq.com
+127.0.0.1 exmail.qq.com
+127.0.0.1 fanyi.qq.com
+127.0.0.1 imweb.qq.com
+127.0.0.1 ai.qq.com
+127.0.0.1 athena.qq.com
+127.0.0.1 chuangshi.qq.com
+127.0.0.1 dl_dir2.qq.com
+127.0.0.1 debugx5.qq.com
+127.0.0.1 game-web.qq.com
+127.0.0.1 pingjs.qq.com
+127.0.0.1 sqop.qq.com
+127.0.0.1 freeqqm.qq.com
+127.0.0.1 roblox.qq.com
+127.0.0.1 daohang.qq.com
+127.0.0.1 office.qq.com
+127.0.0.1 mxbiz2.qq.com
+127.0.0.1 finance.qq.com
+127.0.0.1 wpa1.qq.com
+127.0.0.1 dns.qq.com
+127.0.0.1 ff.anticheatexpert.com
+127.0.0.1 court.anticheatexpert.com
+127.0.0.1 ctp.anticheatexpert.com
+127.0.0.1 intl.anticheatexpert.com
+127.0.0.1 intltest.anticheatexpert.com
+127.0.0.1 defender.anticheatexpert.com
+127.0.0.1 tqos-yun.anticheatexpert.com
+127.0.0.1 uic.anticheatexpert.com
+127.0.0.1 uic-cn.anticheatexpert.com
+127.0.0.1 wkchannelone.anticheatexpert.com
+127.0.0.1 service.anticheatexpert.com
+127.0.0.1 cschannel.anticheatexpert.com
+127.0.0.1 tqos.anticheatexpert.com
+127.0.0.1 asia.csoversea.mbgame.anticheatexpert.com
+127.0.0.1 usa.csoversea.mbgame.anticheatexpert.com
+127.0.0.1 downintl.anticheatexpert.com
+127.0.0.1 nj.cschannel.anticheatexpert.com
+127.0.0.1 global.cschannel.anticheatexpert.com
+127.0.0.1 23.45.233.27
+127.0.0.1 23.45.233.51
+127.0.0.1 203.205.253.140
+127.0.0.1 203.205.253.183
+127.0.0.1 203.205.219.94
+127.0.0.1 203.205.235.145
+127.0.0.1 101.32.143.247
+127.0.0.1 119.28.145.130
+127.0.0.1 49.51.42.152
+127.0.0.1 129.226.23.104
+127.0.0.1 101.32.85.212
+127.0.0.1 170.106.134.228
+127.0.0.1 170.106.134.222
+127.0.0.1 182.254.116.117
+127.0.0.1 49.51.185.106
+127.0.0.1 49.51.177.92
+127.0.0.1 150.109.28.218
+127.0.0.1 49.51.185.106
+127.0.0.1 211.152.148.43
+127.0.0.1 119.28.147.156
+127.0.0.1 49.51.66.225
+127.0.0.1 101.32.88.8
+127.0.0.1 49.51.177.92
+127.0.0.1 124.156.33.49
+127.0.0.1 101.32.85.132
+127.0.0.1 124.156.12.61
+127.0.0.1 101.32.89.158
+127.0.0.1 129.226.22.158
+127.0.0.1 www.pubgmobile.com
+127.0.0.1 cloud.gsdk.proximabeta.com
+127.0.0.1 tencentgames.helpshift.com
+127.0.0.1 qos.hk.gcloudcs.com
+127.0.0.1 app.sparta.mig.tencent-cloud.net
+127.0.0.1 odc-gateway.onedrive.akadns.net
+127.0.0.1 www.wshifen.com
+127.0.0.1 www.wshifen.com
+127.0.0.1 a1845.dscb.akamai.net
+127.0.0.1 www.a.shifen.com
+127.0.0.1 usa.csoversea.mbgame.anticheatexpert.com
+127.0.0.1 cloudsv.ieg.onezapp.com
+127.0.0.1 cloudconfig.googleapis.com
+127.0.0.1 idcconfig.gcloudsdk.com
+127.0.0.1 cdn.wetest.net
+127.0.0.1 pay.igamecj.com
+127.0.0.1 pubgmobile.helpshift.com
+127.0.0.1 app.adjust.com
+127.0.0.1 cloudconfig.googleapis.com
+127.0.0.1 nawzryhwatm.broker.amsoveasea.com
+127.0.0.1 napubgm.broker.amsoveasea.com
+127.0.0.1 app.adjust.com
+127.0.0.1 cdn.ampproject.org
+127.0.0.1 idcconfig.gcloudsdk.com
+127.0.0.1 lh3.googleusercontent.com
+127.0.0.1 tsg.tdatamaster.com
+127.0.0.1 usa.csoversea.mbgame.anticheatexpert.com
+127.0.0.1 down.anticheatexpert.com
+127.0.0.1 anticheatexpert.com
+172.217.18.46 *.qq.com
+172.217.18.46 *.*.qq.com
+172.217.18.46 *.*.*.qq.com
+172.217.18.46 security.sparta.mig.tencent-cloud.net
+172.217.18.46 cloudctrl.gcloudsdk.com
+172.217.18.46 s1.symcb.com 
+172.217.18.46 master.etl.desktop.qq.com:
+172.217.18.46 tsg.tdatamaster.com
+172.217.18.46 dumpintl.gamesafe.qq.com
+172.217.18.46 down.safe.wegamex.com.hk
+172.217.18.46 vmp.qq.com
+172.217.18.46 oth.eve.mdt.qq.com
+172.217.18.46 tpns.qq.com
+172.217.18.46 dump.gamesafe.qq.com
+172.217.18.46 pingma.qq.com
+172.217.18.46 pingjs.qq.com
+172.217.18.46 down.qq.com
+172.217.18.46 cloud.gsdk.proximabeta.com
+172.217.18.46 cs.mbgame.gamesafe.qq.com
+172.217.18.46 platform-lookaside.fbsbx.com
+172.217.18.46 wukong.gamesafe.qq.com
+172.217.18.46 wukong1.gamesafe.qq.com
+172.217.18.46 cs.cloud.gamesafe.qq.com
+172.217.18.46 idcconfig.gcloud.qq.com
+172.217.18.46 connectivitycheck.gstatic.com
+172.217.18.46 hkconfig.gcloud.qq.com
+172.217.18.46 pm.myapp.com
+172.217.18.46 crl.microsoft.com
+172.217.18.46 safe.wegamex.com.hk
+172.217.18.46 csoversea.mbgame.gamesafe.qq.com
+172.217.18.46 dldir1.qq.com
+172.217.18.46 sf.symcb.com
+172.217.18.46 guanjia.qq.com
+172.217.18.46 sy.guanjia.qq.com
+172.217.18.46 tencentgames.helpshift.com
+172.217.18.46 crl.verisign.com
+172.217.18.46 ocsp.verisign.com
+172.217.18.46 sf.symcd.com
+172.217.18.46 www.pubgmobile.com
+172.217.18.46 app-measurement.com
+172.217.18.46 android.bugly.qq.com
+172.217.18.46 receiver.sg.tdm.qq.com
+172.217.18.46 sg.tdm.qq.com
+172.217.18.46 report.syzs.qq.com
+172.217.18.46 app.adjust.com
+172.217.18.46 qbwup.imtt.qq.com
+172.217.18.46 wup.imtt.qq.com
+172.217.18.46 game.qq.com
+172.217.18.46 www.gstatic.com
+172.217.18.46 csi.gstatic.com
+172.217.18.46 public.igamecj.com
+172.217.18.46 napubgm.broker.tplay.qq.com
+172.217.18.46 pay.igamecj.com
+172.217.18.46 crl.globalsign.net
+172.217.18.46 graph.facebook.com
+172.217.18.46 reverse.gdsz.cncnet.net
+172.217.18.46 pay.igamecj.com
+172.217.18.46 guanjia.qq.com
+172.217.18.46 s.pc.qq.com
+172.217.18.46 ig-us-notice.igamecj.com
+172.217.18.46 apm.wetest.qq.com
+172.217.18.46 pingma.qq.com
+172.217.18.46 cdn.wetest.qq.com
+172.217.18.46 hk.api.unipay.qq.com
+172.217.18.46 crl.globalsign.com
+172.217.18.46 ocsp2.globalsign.com
+172.217.18.46 szmg.qq.com
+172.217.18.46 dlied1.qq.com
+172.217.18.46 c.tdm.qq.com
+172.217.18.46 nawzryhwatm.broker.tplay.qq.com
+172.217.18.46 c.gj.qq.com
+172.217.18.46 pingfore.qq.com
+172.217.18.46 ossweb-img.qq.com
+172.217.18.46 dr.game.qq.com
+172.217.18.46 gamesafe.qq.com
+172.217.18.46 syzs.qq.com
+172.217.18.46 down.anticheatexpert.com
+172.217.18.46 report.huatuo.qq.com
+172.217.18.46 m.guanjia.qq.com
+172.217.18.46 vngpublic.igamecj.com
+172.217.18.46 cdn.liftoff.io
+172.217.18.46 safe.wegamex.com.hk
+172.217.18.46 androidemulator.crash.pcmgr.qq.com
+172.217.18.46 logs.game.qq.com
+172.217.18.46 client-beta.pubgameshowtime.com
+172.217.18.46 www.qq.com
+0.0.0.0 freedns.afraid.org
+0.0.0.0 shadowgamer.vip
+0.0.0.0 monerohash.com
+0.0.0.0 report1.smartgaga.com
+172.217.18.46 btrace.qq.com
+172.217.18.46 cloudctrl.gcloud.qq.com
+172.217.18.46 s.gameloop.fun
+172.217.18.46 astat.bugly.qcloud.com
+172.217.18.46 master.etl.desktop.qq.com
+172.217.18.46 cloud.vmp.onezapp.com
+172.217.18.46 gcloud-versvr.igamecj.com
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800083281.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800082881.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800003981.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4006051091.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4008000291.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800053691.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800006691.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4006612002.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800085002.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4008036002.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4006007002.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800005102.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4001882202.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4006662402.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4000331112.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800013412.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800180022.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800071022.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4006229222.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4000527322.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800032522.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4008203622.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800169332.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800106432.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4006667632.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800076732.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4000009152.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4006008062.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4008800762.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4006888672.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800001082.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800025082.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4000028182.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4006688282.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4000016682.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4006627782.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800060982.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4006262092.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4009990592.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4009920992.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800074003.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 8008008003.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4000222103.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 710034203.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a www.4008008203.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4001680303.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4006080503.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800066503.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4000972013.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4008870113.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800002113.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4008001413.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800151413.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800088123.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4008551223.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800015423.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800002523.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800015523.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800052623.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800003623.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800020033.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4001582233.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4006338233.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4008639333.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4001889333.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4006822833.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4006340053.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800085353.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800066753.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800051953.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800061663.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4001188963.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800071173.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4000001273.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4000559773.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800047083.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4006667183.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800076883.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800026093.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4000539293.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 800001993.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4006644993.114.qq.com - 203.205.239.246
+2401:4900:4199:b649:6374:1c78:8e12:9a7a 4000931114.114.qq.com - 203.205.239.246
+0.0.0.0 .helpshift.com
+0.0.0.1  2a03:2880:f037:113:face:b00c:0:2
+0.0.0.0 .tencent.com
+0.0.0.0 .proximabeta.com
+0.0.0.0 .qq.com
+0.0.0.0  helpshift.com
+0.0.0.1  2a03:2880:f037:113:face:b00c:0:2
+0.0.0.0  tencent.com
+0.0.0.0  proximabeta.com
+0.0.0.0  userapi.com
+0.0.0.0  akamaized.net
+0.0.0.0  pandora.game.qq.com
+0.0.0.0  www.pubgmobile.com
+0.0.0.0  qq.com
+0.0.0.0  ns3.qq.com
+0.0.0.0  ns2.qq.com
+0.0.0.0  ns4.qq.com
+0.0.0.0  ns1.qq.com
+0.0.0.0  cloudmx.qq.com
+0.0.0.0  intldlgs.qq.com
+0.0.0.0  sg.tdm.qq.com
+0.0.0.0  cdn.wetest.qq.com
+0.0.0.0  receiver.sg.tdm.qq.com
+0.0.0.0  napubgm.broker.tplay.qq.com
+0.0.0.0  cs.mbgame.gamesafe.qq.com
+0.0.0.0  vmp.qq.com
+0.0.0.0  android.bugly.qq.com
+0.0.0.0  idcconfig.gcloud.qq.com
+0.0.0.0 2a03:2880:f037:113:face:b00c:0:2
+0.0.0.0  idc.receiver.tdm.qq.com
+0.0.0.0  pingma.qq.com
+0.0.0.0  csoversea.mbgame.gamesafe.qq.com
+0.0.0.0  2a03:2880:f037:113:face:b00c:0:2
+0.0.0.0  ig-us-notice.igamecj.com
+0.0.0.0  pay.igamecj.com
+0.0.0.0  naping.igamecj.com
+0.0.0.0  euping.igamecj.com
+0.0.0.0  hkping.igamecj.com
+0.0.0.0  saping.igamecj.com
+0.0.0.0  meping.igamecj.com
+0.0.0.0  lobby.igamecj.com
+0.0.0.0  krping.igamecj.com
+0.0.0.0  file.igamecj.com
+0.0.0.0  app.adjust.com
+0.0.0.0  csi.gstatic.com
+0.0.0.0  tencentgames.helpshift.com
+0.0.0.0  cloud.gsdk.proximabeta.com
+0.0.0.0  filecdn-igamecj.akamaized.net
+0.0.0.0  puffer.4.1375135419.igame.gcloudcs.com
+0.0.0.0  nawzryhwatm.broker.tplay.qq.com
+0.0.0.0  gameguardian.net
+0.0.0.0  amazonaws.com
+0.0.0.0  ig.tencent.com
+0.0.0.0  epicgames.com
+0.0.0.0 .helpshift.com
+0.0.0.0  vk.com
+0.0.0.0  googleapis.com
+0.0.0.0  58.247.214.32
+0.0.0.0  119.28.244.50
+0.0.0.0  49.51.66.225
+0.0.0.0  119.28.242.134
+0.0.0.0  49.51.42.152
+0.0.0.0  104.108.198.229
+0.0.0.0  101.226.233.246
+0.0.0.0  172.217.27.170
+0.0.0.0  172.217.166.238
+0.0.0.0  172.217.160.225
+0.0.0.0  216.58.214.227
+0.0.0.0  172.217.161.2
+0.0.0.0  157.240.198.17
+0.0.0.0  216.58.214.227
+0.0.0.0  172.217.161.2
+0.0.0.0  172.217.167.2
+0.0.0.0  124.156.54.141
+0.0.0.0  203.205.219.228
+0.0.0.0  124.156.12.123
+0.0.0.0  119.28.121.21
+0.0.0.0  124.156.17.200
+0.0.0.0  49.51.235.24
+0.0.0.0  23.200.239.144
+0.0.0.0  150.109.29.135
+0.0.0.0  119.28.229.113
+0.0.0.0  119.28.183.210
+0.0.0.0  119.28.243.66
+0.0.0.0  101.226.233.246
+0.0.0.0  104.89.115.119
+0.0.0.0  157.240.192.18
+0.0.0.0  157.240.198.17
+0.0.0.0  23.76.157.58
+0.0.0.0  49.51.66.143
+0.0.0.0  23.76.231.167
+0.0.0.0  49.51.42.152
+0.0.0.0  23.76.231.167
+0.0.0.0  49.51.42.152
+0.0.0.0  172.217.163.138
+0.0.0.0  172.217.163.65
+0.0.0.0  172.217.166.225
+0.0.0.0  182.254.116.117
+0.0.0.0  192.229.237.96
+0.0.0.0  172.217.161.2
+0.0.0.0  23.76.157.26
+0.0.0.0  mtp.qq.com
+0.0.0.0  intl.mtp.qq.com
+0.0.0.0  cloud.mtp.qq.com
+0.0.0.0  intl.cloud.mtp.qq.com
+0.0.0.0  mtp.tencent.com
+0.0.0.0  intl.mtp.tencent.com
+0.0.0.0  cloud.mtp.tencent.com
+0.0.0.0  intl.cloud.mtp.tencent.com
+0.0.0.0  tcqq.com
+0.0.0.0  tc.qq.com
+0.0.0.0  x2tcqq.com
+0.0.0.0  x2tc.qq.com
+0.0.0.0  x2.tc.qq.com
+0.0.0.0  cloud.tcqq.com
+0.0.0.0  dlied.qq.com
+0.0.0.0  dlied.tcqq.com
+0.0.0.0  dlied.tc.qq.com
+0.0.0.0  dlied.tcdn.com
+0.0.0.0  dlied.tcdn.qq.com
+0.0.0.0  dlied.qq.com:80
+0.0.0.0  dlied1.qq.com
+0.0.0.0  dlied1.tcqq.com
+0.0.0.0  dlied1.tc.qq.com
+0.0.0.0  dlied1.tcdn.com
+0.0.0.0  dlied1.tcdn.qq.com
+0.0.0.0  dlied1.qq.com:80
+0.0.0.0  119.28.164.220/dlied1.qq.com
+0.0.0.0  dlied2.qq.com
+0.0.0.0  dlied2.tcqq.com
+0.0.0.0  dlied2.tc.qq.com
+0.0.0.0  dlied2.tcdn.com
+0.0.0.0  dlied2.tcdn.qq.com
+0.0.0.0  dlied2.qq.com:80
+0.0.0.0  dlied3.qq.com
+0.0.0.0  dlied3.tcqq.com
+0.0.0.0  dlied3.tc.qq.com
+0.0.0.0  dlied3.tcdn.com
+0.0.0.0  dlied3.tcdn.qq.com 
+0.0.0.0  dlied3.qq.com:80
+0.0.0.0  dlied4.qq.com
+0.0.0.0  dlied4.tcqq.com
+0.0.0.0  dlied4.tc.qq.com
+0.0.0.0  dlied4.tcdn.com
+0.0.0.0  dlied4.tcdn.qq.com
+0.0.0.0  dlied4.qq.com:80
+0.0.0.0  dlied5.qq.com
+0.0.0.0  dlied5.tcqq.com
+0.0.0.0  dlied5.tc.qq.com
+0.0.0.0  dlied5.tcdn.com
+0.0.0.0  dlied5.tcdn.qq.com
+0.0.0.0  dlied5.qq.com:80
+0.0.0.0  dlied6.qq.com
+0.0.0.0  dlied6.tcqq.com
+0.0.0.0  dlied6.tc.qq.com
+0.0.0.0  dlied6.tcdn.com
+0.0.0.0  dlied6.tcdn.qq.com
+0.0.0.0  dlied6.qq.com:80
+0.0.0.0  masterconn11.qq.com
+0.0.0.0  oth.eve.mdt.qq.com
+0.0.0.0  oth.eve.mdt.qq.com
+0.0.0.0  pingma.qq.com
+0.0.0.0  cloud.gsdk.proximabeta.com
+0.0.0.0  file.igamecj.com
+0.0.0.0  android.bugly.qq.com
+0.0.0.0  vmp.qq.com
+0.0.0.0  oth.eve.mdt.qq.com
+0.0.0.0  down.qq.com
+0.0.0.0  bug.pubg.com
+0.0.0.0  cloud.pubg.com
+0.0.0.0  fix.pubg.com
+0.0.0.0  report.pubg.com
+0.0.0.0  tencent-pubg.com
+0.0.0.0  litepc-session-service.pubg.com 
+0.0.0.0  tcqq.com
+0.0.0.0  tc.qq.com
+0.0.0.0  x2tcqq.com
+0.0.0.0  x2tc.qq.com
+0.0.0.0  x2.tc.qq.com
+0.0.0.0  wetest.qq.com
+0.0.0.0  cdn.wetest.qq.com
+0.0.0.0  wetest.qq.cloud.tcqq.com
+0.0.0.0  wetest.qq.cloud.tc.qq.com
+0.0.0.0  cdn.wetest.qq.cloud.tcqq.com
+0.0.0.0  cdn.wetest.qq.cloud.tc.qq.com
+0.0.0.0  cloud.tcqq.com
+0.0.0.0  cloud.tc.qq.com
+0.0.0.0  adjust.com
+0.0.0.0  app.adjust.com
+0.0.0.0  tdm.qq.com
+0.0.0.0  a.tdm.qq.com
+0.0.0.0  b.tdm.qq.com
+0.0.0.0  c.tdm.qq.com
+0.0.0.0  d.tdm.qq.com
+0.0.0.0  e.tdm.qq.com
+0.0.0.0  f.tdm.qq.com
+0.0.0.0  g.tdm.qq.com
+0.0.0.0  h.tdm.qq.com
+0.0.0.0  i.tdm.qq.com
+0.0.0.0  j.tdm.qq.com
+0.0.0.0  k.tdm.qq.com
+0.0.0.0  l.tdm.qq.com
+0.0.0.0  m.tdm.qq.com
+0.0.0.0  n.tdm.qq.com
+0.0.0.0  o.tdm.qq.com
+0.0.0.0  p.tdm.qq.com
+0.0.0.0  q.tdm.qq.com
+0.0.0.0  r.tdm.qq.com
+0.0.0.0  s.tdm.qq.com
+0.0.0.0  t.tdm.qq.com
+0.0.0.0  u.tdm.qq.com
+0.0.0.0  v.tdm.qq.com
+0.0.0.0  w.tdm.qq.com
+0.0.0.0  x.tdm.qq.com
+0.0.0.0  z.tdm.qq.com
+0.0.0.0  tegsea.qq.com
+0.0.0.0  intldlgs.qq.com
+0.0.0.0  intl.dlgs.qq.com
+0.0.0.0  intldlgs.qq.com
+0.0.0.0  tegsea.qq.com
+0.0.0.0  intl.dlgs.qq.com
+0.0.0.0  tegsea.qq.com
+0.0.0.0  mtp.qq.com
+0.0.0.0  intl.mtp.qq.com
+0.0.0.0  cloud.mtp.qq.com
+0.0.0.0  intl.cloud.mtp.qq.com
+0.0.0.0  mtp.tencent.com
+0.0.0.0  intl.mtp.tencent.com
+0.0.0.0  cloud.mtp.tencent.com
+0.0.0.0  intl.cloud.mtp.tencent.com
+0.0.0.0 helpshift.com
+0.0.0.0 tencent.com
+0.0.0.0 proximabeta.com
+0.0.0.0 qq.com
+0.0.0.0 intldlgs.qq.com
+0.0.0.0 ns3.qq.com
+0.0.0.0 ns2.qq.com
+0.0.0.0 ns4.qq.com
+0.0.0.0 ns1.qq.com
+0.0.0.0 cloudmx.qq.com
+0.0.0.0 in.gcloudcs.com
+0.0.0.0 tencentgames.helpshift.com
+0.0.0.0 file.igamecj.com
+0.0.0.0 hkspeed.igamecj.com
+0.0.0.0 lobby.igamecj.com
+0.0.0.0 naping.igamecj.com
+0.0.0.0 euping.igamecj.com
+0.0.0.0 hkping.igamecj.com
+0.0.0.0 saping.igamecj.com
+0.0.0.0 meping.igamecj.com
+0.0.0.0 krping.igamecj.com
+0.0.0.0 filecdn-igamecj.akamaized.net
+0.0.0.0 intldlgs.qq.com
+0.0.0.0 csoversea.mbgame.gamesafe.qq.com
+0.0.0.0 cdn.wetest.qq.com
+0.0.0.0 receiver.sg.tdm.qq.com
+0.0.0.0 csoversea.mbgame.gamesafe.qq.com
+0.0.0.0 www.pubgmobile.com
+0.0.0.0 receiver.sg.tdm.qq.com
+0.0.0.0 cloud.gsdk.proximabeta.com
+0.0.0.0 dns15.hichina.com
+0.0.0.0 203.205.137.235
+0.0.0.0 server.tencent.com
+0.0.0.0 helpdesk.tencent.com
